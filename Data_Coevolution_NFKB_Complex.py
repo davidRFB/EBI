@@ -271,9 +271,9 @@ for key,val in NFKBComplex_Data.items():
        
         seq = ObtainNucleotideSeq(genId)
         if(seq !="NaN"):
-            gen.append("NaN")
+            gen.append(seq)
         else:
-            gen.append(seq) ## add this nucleotide seq to genId in list
+            gen.append("NaN") ## add this nucleotide seq to genId in list
         proteinSeq = UniprotByGen(genId) # obtain AA sequence
         
         if(proteinSeq !="NaN"): 
