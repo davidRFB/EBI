@@ -1,0 +1,4491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<orthoXML xsi:schemaLocation="http://orthoXML.org http://orthoXML.org/0.3/orthoxml.xsd" version="0.3" origin="Ensembl" originVersion="Unknown" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://orthoXML.org/2011/">
+  <species NCBITaxId="9606" name="homo_sapiens">
+    <database name="Unknown" version="GRCh38/2014-01-Ensembl">
+      <genes>
+        <gene id="940278144" geneId="ENSG00000077150" protId="ENSP00000358983" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="51511" name="ciona_savignyi">
+    <database name="Unknown" version="CSAV2.0/2006-04-Ensembl">
+      <genes>
+        <gene id="92000" geneId="ENSCSAVG00000004850" protId="ENSCSAVP00000008151" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="7227" name="drosophila_melanogaster">
+    <database name="Unknown" version="BDGP6.28/2019-06-FlyBase">
+      <genes>
+        <gene id="932567215" geneId="FBgn0260632" protId="FBpp0080560" />
+        <gene id="932567174" geneId="FBgn0011274" protId="FBpp0290792" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9595" name="gorilla_gorilla">
+    <database name="Unknown" version="gorGor4/2017-08-Ensembl">
+      <genes>
+        <gene id="936411844" geneId="ENSGGOG00000006971" protId="ENSGGOP00000006827" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9598" name="pan_troglodytes">
+    <database name="Unknown" version="Pan_tro_3.0/2017-08-Ensembl">
+      <genes>
+        <gene id="935766033" geneId="ENSPTRG00000002888" protId="ENSPTRP00000066154" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9597" name="pan_paniscus">
+    <database name="Unknown" version="panpan1.1/2017-08-Ensembl">
+      <genes>
+        <gene id="937180974" geneId="ENSPPAG00000030613" protId="ENSPPAP00000014952" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9601" name="pongo_abelii">
+    <database name="Unknown" version="PPYG2/2007-10-Ensembl">
+      <genes>
+        <gene id="157175" geneId="ENSPPYG00000002599" protId="ENSPPYP00000003023" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="61853" name="nomascus_leucogenys">
+    <database name="Unknown" version="Nleu_3.0/2017-08-Ensembl">
+      <genes>
+        <gene id="800344679" geneId="ENSNLEG00000015079" protId="ENSNLEP00000018358" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9544" name="macaca_mulatta">
+    <database name="Unknown" version="Mmul_10/2019-04-Ensembl">
+      <genes>
+        <gene id="943503823" geneId="ENSMMUG00000002990" protId="ENSMMUP00000003997" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9568" name="mandrillus_leucophaeus">
+    <database name="Unknown" version="Mleu.le_1.0/2017-08-Ensembl">
+      <genes>
+        <gene id="937538921" geneId="ENSMLEG00000025549" protId="ENSMLEP00000005955" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9545" name="macaca_nemestrina">
+    <database name="Unknown" version="Mnem_1.0/2017-08-Ensembl">
+      <genes>
+        <gene id="800133213" geneId="ENSMNEG00000030201" protId="ENSMNEP00000011786" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="336983" name="colobus_angolensis_palliatus">
+    <database name="Unknown" version="Cang.pa_1.0/2017-08-Ensembl">
+      <genes>
+        <gene id="800247803" geneId="ENSCANG00000032432" protId="ENSCANP00000017984" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9565" name="theropithecus_gelada">
+    <database name="Unknown" version="Tgel_1.0/2018-10-Ensembl">
+      <genes>
+        <gene id="904693741" geneId="ENSTGEG00000020539" protId="ENSTGEP00000025511" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="61622" name="rhinopithecus_roxellana">
+    <database name="Unknown" version="Rrox_v1/2017-08-Ensembl">
+      <genes>
+        <gene id="937618238" geneId="ENSRROG00000034177" protId="ENSRROP00000020490" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9541" name="macaca_fascicularis">
+    <database name="Unknown" version="Macaca_fascicularis_5.0/2017-08-Ensembl">
+      <genes>
+        <gene id="936149356" geneId="ENSMFAG00000031139" protId="ENSMFAP00000015923" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="591936" name="piliocolobus_tephrosceles">
+    <database name="Unknown" version="ASM277652v2/2018-10-Ensembl">
+      <genes>
+        <gene id="938018491" geneId="ENSPTEG00000002776" protId="ENSPTEP00000002371" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="60711" name="chlorocebus_sabaeus">
+    <database name="Unknown" version="ChlSab1.1/2014-03-Ensembl">
+      <genes>
+        <gene id="923345" geneId="ENSCSAG00000005442" protId="ENSCSAP00000001753" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9531" name="cercocebus_atys">
+    <database name="Unknown" version="Caty_1.0/2017-08-Ensembl">
+      <genes>
+        <gene id="800743131" geneId="ENSCATG00000033674" protId="ENSCATP00000019816" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="61621" name="rhinopithecus_bieti">
+    <database name="Unknown" version="ASM169854v1/2017-08-Ensembl">
+      <genes>
+        <gene id="936751172" geneId="ENSRBIG00000028068" protId="ENSRBIP00000008363" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9555" name="papio_anubis">
+    <database name="Unknown" version="Panu_3.0/2017-08-Ensembl">
+      <genes>
+        <gene id="935444276" geneId="ENSPANG00000021013" protId="ENSPANP00000020921" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9483" name="callithrix_jacchus">
+    <database name="Unknown" version="ASM275486v1/2018-12-Ensembl">
+      <genes>
+        <gene id="941623810" geneId="ENSCJAG00000017928" protId="ENSCJAP00000033112" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="37293" name="aotus_nancymaae">
+    <database name="Unknown" version="Anan_2.0/2017-08-Ensembl">
+      <genes>
+        <gene id="935562094" geneId="ENSANAG00000038091" protId="ENSANAP00000041615" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="39432" name="saimiri_boliviensis_boliviensis">
+    <database name="Unknown" version="SaiBol1.0/2017-08-Ensembl">
+      <genes>
+        <gene id="935087106" geneId="ENSSBOG00000027266" protId="ENSSBOP00000021447" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="1737458" name="cebus_capucinus">
+    <database name="Unknown" version="Cebus_imitator-1.0/2017-08-Ensembl">
+      <genes>
+        <gene id="800575147" geneId="ENSCCAG00000036762" protId="ENSCCAP00000037880" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="379532" name="propithecus_coquereli">
+    <database name="Unknown" version="Pcoq_1.0/2017-08-Ensembl">
+      <genes>
+        <gene id="935860147" geneId="ENSPCOG00000024535" protId="ENSPCOP00000024654" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="30611" name="otolemur_garnettii">
+    <database name="Unknown" version="OtoGar3/2011-06-Ensembl">
+      <genes>
+        <gene id="830896" geneId="ENSOGAG00000016379" protId="ENSOGAP00000014664" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="30608" name="microcebus_murinus">
+    <database name="Unknown" version="Mmur_3.0/2017-08-Ensembl">
+      <genes>
+        <gene id="936845715" geneId="ENSMICG00000011856" protId="ENSMICP00000032659" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="1328070" name="prolemur_simus">
+    <database name="Unknown" version="Prosim_1.0/2018-11-Ensembl">
+      <genes>
+        <gene id="935262655" geneId="ENSPSMG00000011651" protId="ENSPSMP00000016368" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="885580" name="fukomys_damarensis">
+    <database name="Unknown" version="DMR_v1.0/2016-10-ensembl">
+      <genes>
+        <gene id="935546960" geneId="ENSFDAG00000004662" protId="ENSFDAP00000016259" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="10090" name="mus_musculus">
+    <database name="Unknown" version="GRCm38/2012-01-Ensembl">
+      <genes>
+        <gene id="935992845" geneId="ENSMUSG00000025225" protId="ENSMUSP00000107512" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="10020" name="dipodomys_ordii">
+    <database name="Unknown" version="Dord_2.0/2016-11-ensembl">
+      <genes>
+        <gene id="937659267" geneId="ENSDORG00000013409" protId="ENSDORP00000012607" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="51337" name="jaculus_jaculus">
+    <database name="Unknown" version="JacJac1.0/2016-10-ensembl">
+      <genes>
+        <gene id="935633922" geneId="ENSJJAG00000011519" protId="ENSJJAP00000007061" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="10116" name="rattus_norvegicus">
+    <database name="Unknown" version="Rnor_6.0/2014-09-Ensembl">
+      <genes>
+        <gene id="418920798" geneId="ENSRNOG00000019311" protId="ENSRNOP00000026235" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="10141" name="cavia_porcellus">
+    <database name="Unknown" version="Cavpor3.0/2016-12-ensembl">
+      <genes>
+        <gene id="418827935" geneId="ENSCPOG00000004847" protId="ENSCPOP00000004362" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="10029" name="cricetulus_griseus_crigri">
+    <database name="Unknown" version="CriGri_1.0/2016-11-ensembl">
+      <genes>
+        <gene id="937591686" geneId="ENSCGRG00000008731" protId="ENSCGRP00000011996" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="10181" name="heterocephalus_glaber_female">
+    <database name="Unknown" version="HetGla_female_1.0/2016-11-ensembl">
+      <genes>
+        <gene id="419149793" geneId="ENSHGLG00000007237" protId="ENSHGLP00000010087" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="55149" name="sciurus_vulgaris">
+    <database name="Unknown" version="mSciVul1.1/2020-01-Ensembl">
+      <genes>
+        <gene id="944719025" geneId="ENSSVLG00005004099" protId="ENSSVLP00005005109" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9999" name="urocitellus_parryii">
+    <database name="Unknown" version="ASM342692v1/2018-11-Ensembl">
+      <genes>
+        <gene id="937354040" geneId="ENSUPAG00010020673" protId="ENSUPAP00010026180" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="79684" name="microtus_ochrogaster">
+    <database name="Unknown" version="MicOch1.0/2016-10-ensembl">
+      <genes>
+        <gene id="419262735" geneId="ENSMOCG00000011590" protId="ENSMOCP00000011351" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9978" name="ochotona_princeps">
+    <database name="Unknown" version="OchPri2.0-Ens/2008-01-Ensembl">
+      <genes>
+        <gene id="1427264" geneId="ENSOPRG00000006569" protId="ENSOPRP00000006019" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="37347" name="tupaia_belangeri">
+    <database name="Unknown" version="TREESHREW/2006-10-Ensembl">
+      <genes>
+        <gene id="1191948" geneId="ENSTBEG00000005047" protId="ENSTBEP00000004365" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="10047" name="meriones_unguiculatus">
+    <database name="Unknown" version="MunDraft-v1.0/2018-12-Ensembl">
+      <genes>
+        <gene id="935111863" geneId="ENSMUGG00000015295" protId="ENSMUGP00000018022" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="10029" name="cricetulus_griseus_chok1gshd">
+    <database name="Unknown" version="CHOK1GS_HDv1/2017-03-ensembl">
+      <genes>
+        <gene id="419294915" geneId="ENSCGRG00001009030" protId="ENSCGRP00001006661" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="10160" name="octodon_degus">
+    <database name="Unknown" version="OctDeg1.0/2016-11-ensembl">
+      <genes>
+        <gene id="938083956" geneId="ENSODEG00000007396" protId="ENSODEP00000009887" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="99837" name="spermophilus_dauricus">
+    <database name="Unknown" version="ASM240643v1/2018-12-Ensembl">
+      <genes>
+        <gene id="937939657" geneId="ENSSDAG00000022141" protId="ENSSDAP00000024300" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="10103" name="mus_spicilegus">
+    <database name="Unknown" version="MUSP714/2018-12-Ensembl">
+      <genes>
+        <gene id="903952840" geneId="ENSMSIG00000011557" protId="ENSMSIP00000013341" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="37548" name="cavia_aperea">
+    <database name="Unknown" version="CavAp1.0/2016-09-ensembl">
+      <genes>
+        <gene id="418912301" geneId="ENSCAPG00000013577" protId="ENSCAPP00000012829" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="1026970" name="nannospalax_galili">
+    <database name="Unknown" version="S.galili_v1.0/2016-10-ensembl">
+      <genes>
+        <gene id="935662434" geneId="ENSNGAG00000022988" protId="ENSNGAP00000024865" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="43179" name="ictidomys_tridecemlineatus">
+    <database name="Unknown" version="SpeTri2.0/2016-11-ensembl">
+      <genes>
+        <gene id="419294555" geneId="ENSSTOG00000002191" protId="ENSSTOP00000001959" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="51338" name="castor_canadensis">
+    <database name="Unknown" version="C.can_genome_v1.0/2018-11-Ensembl">
+      <genes>
+        <gene id="938139525" geneId="ENSCCNG00000015898" protId="ENSCCNP00000015579" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="10036" name="mesocricetus_auratus">
+    <database name="Unknown" version="MesAur1.0/2016-10-ensembl">
+      <genes>
+        <gene id="936135685" geneId="ENSMAUG00000016292" protId="ENSMAUP00000017403" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="10181" name="heterocephalus_glaber_male">
+    <database name="Unknown" version="HetGla_1.0/2016-11-ensembl">
+      <genes>
+        <gene id="936451389" geneId="ENSHGLG00100014668" protId="ENSHGLP00100019900" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="34839" name="chinchilla_lanigera">
+    <database name="Unknown" version="ChiLan1.0/2016-11-ensembl">
+      <genes>
+        <gene id="419387504" geneId="ENSCLAG00000004104" protId="ENSCLAP00000005790" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9986" name="oryctolagus_cuniculus">
+    <database name="Unknown" version="OryCun2.0/2009-11-Ensembl">
+      <genes>
+        <gene id="939902898" geneId="ENSOCUG00000005735" protId="ENSOCUP00000004978" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="10093" name="mus_pahari">
+    <database name="Unknown" version="PAHARI_EIJ_v1.1/2017-05">
+      <genes>
+        <gene id="802032302" geneId="MGP_PahariEiJ_G0014521" protId="MGP_PahariEiJ_P0021994" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="10096" name="mus_spretus">
+    <database name="Unknown" version="SPRET_EiJ_v1/2016-07">
+      <genes>
+        <gene id="802526111" geneId="MGP_SPRETEiJ_G0023952" protId="MGP_SPRETEiJ_P0051032" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="10089" name="mus_caroli">
+    <database name="Unknown" version="CAROLI_EIJ_v1.1/2017-05">
+      <genes>
+        <gene id="802709474" geneId="MGP_CAROLIEiJ_G0023031" protId="MGP_CAROLIEiJ_P0049026" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="230844" name="peromyscus_maniculatus_bairdii">
+    <database name="Unknown" version="HU_Pman_2.1/2018-11-Ensembl">
+      <genes>
+        <gene id="904009050" geneId="ENSPEMG00000014947" protId="ENSPEMP00000015411" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="10029" name="cricetulus_griseus_picr">
+    <database name="Unknown" version="CriGri-PICR/2018-11-Ensembl">
+      <genes>
+        <gene id="904021201" geneId="ENSCGRG00015021143" protId="ENSCGRP00015027950" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9994" name="marmota_marmota_marmota">
+    <database name="Unknown" version="marMar2.1/2018-12-Ensembl">
+      <genes>
+        <gene id="936588787" geneId="ENSMMMG00000023297" protId="ENSMMMP00000026633" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9749" name="delphinapterus_leucas">
+    <database name="Unknown" version="ASM228892v3/2019-10-Ensembl">
+      <genes>
+        <gene id="941763028" geneId="ENSDLEG00000010672" protId="ENSDLEP00000014561" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="37032" name="suricata_suricatta">
+    <database name="Unknown" version="meerkat_22Aug2017_6uvM2_HiC/2019-07-Ensembl">
+      <genes>
+        <gene id="943490448" geneId="ENSSSUG00005001123" protId="ENSSSUP00005001664" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="84702" name="cervus_hanglu_yarkandensis">
+    <database name="Unknown" version="CEY_v1/2020-02-Ensembl">
+      <genes>
+        <gene id="942868955" geneId="ENSCHYG00000013218" protId="ENSCHYP00000019847" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9615" name="canis_lupus_familiarisbasenji">
+    <database name="Unknown" version="Basenji_breed-1.1/2019-07-Ensembl">
+      <genes>
+        <gene id="942271593" geneId="ENSCAFG00030024842" protId="ENSCAFP00030039987" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9838" name="camelus_dromedarius">
+    <database name="Unknown" version="CamDro2/2019-07-Ensembl">
+      <genes>
+        <gene id="943843665" geneId="ENSCDRG00005014133" protId="ENSCDRP00005020270" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="40151" name="monodon_monoceros">
+    <database name="Unknown" version="NGI_Narwhal_1/2019-12-Ensembl">
+      <genes>
+        <gene id="943341549" geneId="ENSMMNG00015013070" protId="ENSMMNP00015017733" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9771" name="balaenoptera_musculus">
+    <database name="Unknown" version="mBalMus1.v2/2020-02-Ensembl">
+      <genes>
+        <gene id="943370243" geneId="ENSBMSG00010016052" protId="ENSBMSP00010022086" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="441215" name="ursus_thibetanus_thibetanus">
+    <database name="Unknown" version="ASM966005v1/2019-11-Ensembl">
+      <genes>
+        <gene id="942397809" geneId="ENSUTTG00000006238" protId="ENSUTTP00000009891" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="42100" name="phocoena_sinus">
+    <database name="Unknown" version="mPhoSin1.pri/2020-03-Ensembl">
+      <genes>
+        <gene id="944595870" geneId="ENSPSNG00000017232" protId="ENSPSNP00000023609" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="286419" name="canis_lupus_dingo">
+    <database name="Unknown" version="ASM325472v1/2018-09-Ensembl">
+      <genes>
+        <gene id="938141257" geneId="ENSCAFG00020010204" protId="ENSCAFP00020012670" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="74533" name="panthera_tigris_altaica">
+    <database name="Unknown" version="PanTig1.0/2017-12-Ensembl">
+      <genes>
+        <gene id="900162605" geneId="ENSPTIG00000017841" protId="ENSPTIP00000020333" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="59479" name="rhinolophus_ferrumequinum">
+    <database name="Unknown" version="mRhiFer1_v1.p/2019-08-Ensembl">
+      <genes>
+        <gene id="941874619" geneId="ENSRFEG00010017892" protId="ENSRFEP00010026922" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="61383" name="lynx_canadensis">
+    <database name="Unknown" version="mLynCan4_v1.p/2019-08-Ensembl">
+      <genes>
+        <gene id="943121305" geneId="ENSLCNG00005011473" protId="ENSLCNP00005017435" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="30522" name="bos_taurus_hybrid">
+    <database name="Unknown" version="UOA_Angus_1/2018-12-Ensembl">
+      <genes>
+        <gene id="905247457" geneId="ENSBIXG00000012188" protId="ENSBIXP00000006047" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9755" name="physeter_catodon">
+    <database name="Unknown" version="ASM283717v2/2019-07-Ensembl">
+      <genes>
+        <gene id="943233326" geneId="ENSPCTG00005019685" protId="ENSPCTP00005027469" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9689" name="panthera_leo">
+    <database name="Unknown" version="PanLeo1.0/2019-11-Ensembl">
+      <genes>
+        <gene id="944283004" geneId="ENSPLOG00000018109" protId="ENSPLOP00000024722" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9669" name="mustela_putorius_furo">
+    <database name="Unknown" version="MusPutFur1.0/2012-04-Ensembl">
+      <genes>
+        <gene id="887662" geneId="ENSMPUG00000016882" protId="ENSMPUP00000016777" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9739" name="tursiops_truncatus">
+    <database name="Unknown" version="turTru1/2008-11-Ensembl">
+      <genes>
+        <gene id="835507" geneId="ENSTTRG00000008357" protId="ENSTTRP00000007919" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9925" name="capra_hircus">
+    <database name="Unknown" version="ARS1/2017-09-Ensembl">
+      <genes>
+        <gene id="802539512" geneId="ENSCHIG00000019967" protId="ENSCHIP00000021741" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="30522" name="bos_indicus_hybrid">
+    <database name="Unknown" version="UOA_Brahman_1/2018-12-Ensembl">
+      <genes>
+        <gene id="905249011" geneId="ENSBIXG00005012914" protId="ENSBIXP00005007670" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9940" name="ovis_aries">
+    <database name="Unknown" version="Oar_v3.1/2012-12-Ensembl">
+      <genes>
+        <gene id="1329262" geneId="ENSOARG00000000483" protId="ENSOARP00000000488" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="132908" name="pteropus_vampyrus">
+    <database name="Unknown" version="pteVam1/2008-11-Ensembl">
+      <genes>
+        <gene id="945729" geneId="ENSPVAG00000011276" protId="ENSPVAP00000010630" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9615" name="canis_lupus_familiaris">
+    <database name="Unknown" version="CanFam3.1/2011-11-Ensembl">
+      <genes>
+        <gene id="940758429" geneId="ENSCAFG00000010155" protId="ENSCAFP00000014918" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="68415" name="moschus_moschiferus">
+    <database name="Unknown" version="MosMos_v2_BIUU_UCD/2019-07-Ensembl">
+      <genes>
+        <gene id="943570880" geneId="ENSMMSG00000023577" protId="ENSMMSP00000031781" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9685" name="felis_catus">
+    <database name="Unknown" version="Felis_catus_9.0/2018-01-Ensembl">
+      <genes>
+        <gene id="944798336" geneId="ENSFCAG00000001242" protId="ENSFCAP00000001153" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9627" name="vulpes_vulpes">
+    <database name="Unknown" version="VulVul2.2/2018-09-Ensembl">
+      <genes>
+        <gene id="902122420" geneId="ENSVVUG00000002942" protId="ENSVVUP00000004428" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9615" name="canis_lupus_familiarisgreatdane">
+    <database name="Unknown" version="UMICH_Zoey_3.1/2019-07-Ensembl">
+      <genes>
+        <gene id="942252508" geneId="ENSCAFG00040023175" protId="ENSCAFP00040037579" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="83772" name="equus_asinus_asinus">
+    <database name="Unknown" version="ASM303372v1/2018-09-Ensembl">
+      <genes>
+        <gene id="902659395" geneId="ENSEASG00005015242" protId="ENSEASP00005022310" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9646" name="ailuropoda_melanoleuca">
+    <database name="Unknown" version="ailMel1/2010-01-Ensembl">
+      <genes>
+        <gene id="178112" geneId="ENSAMEG00000017735" protId="ENSAMEP00000018760" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="29073" name="ursus_maritimus">
+    <database name="Unknown" version="UrsMar_1.0/2018-09-Ensembl">
+      <genes>
+        <gene id="935978174" geneId="ENSUMAG00000023323" protId="ENSUMAP00000032488" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9796" name="equus_caballus">
+    <database name="Unknown" version="EquCab3.0/2018-12-Ensembl">
+      <genes>
+        <gene id="939578402" geneId="ENSECAG00000019593" protId="ENSECAP00000034177" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="51154" name="catagonus_wagneri">
+    <database name="Unknown" version="CatWag_v2_BIUU_UCD/2019-07-Ensembl">
+      <genes>
+        <gene id="945529594" geneId="ENSCWAG00000014044" protId="ENSCWAP00000018236" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9704" name="zalophus_californianus">
+    <database name="Unknown" version="mZalCal1.pri/2020-01-Ensembl">
+      <genes>
+        <gene id="943395427" geneId="ENSZCAG00015020818" protId="ENSZCAP00015033053" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="30538" name="vicugna_pacos">
+    <database name="Unknown" version="vicPac1/2008-11-Ensembl">
+      <genes>
+        <gene id="1647093" geneId="ENSVPAG00000007565" protId="ENSVPAP00000007037" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9643" name="ursus_americanus">
+    <database name="Unknown" version="ASM334442v1/2018-09-Ensembl">
+      <genes>
+        <gene id="937239990" geneId="ENSUAMG00000004846" protId="ENSUAMP00000005574" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9823" name="sus_scrofa">
+    <database name="Unknown" version="Sscrofa11.1/2017-01-Ensembl">
+      <genes>
+        <gene id="944816939" geneId="ENSSSCG00000010580" protId="ENSSSCP00000011271" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="59463" name="myotis_lucifugus">
+    <database name="Unknown" version="Myoluc2.0/2010-12-Ensembl">
+      <genes>
+        <gene id="192194" geneId="ENSMLUG00000006287" protId="ENSMLUP00000005747" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="42254" name="sorex_araneus">
+    <database name="Unknown" version="COMMON_SHREW1/2007-04-Ensembl">
+      <genes>
+        <gene id="1561567" geneId="ENSSARG00000006180" protId="ENSSARP00000005602" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9913" name="bos_taurus">
+    <database name="Unknown" version="ARS-UCD1.2/2018-09-Ensembl">
+      <genes>
+        <gene id="904681121" geneId="ENSBTAG00000006017" protId="ENSBTAP00000007904" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="30521" name="bos_grunniens">
+    <database name="Unknown" version="LU_Bosgru_v3.0/2019-07-Ensembl">
+      <genes>
+        <gene id="942994707" geneId="ENSBGRG00000026174" protId="ENSBGRP00000041748" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="72004" name="bos_mutus">
+    <database name="Unknown" version="BosGru_v2.0/2018-11-Ensembl">
+      <genes>
+        <gene id="902935170" geneId="ENSBMUG00000001725" protId="ENSBMUP00000002230" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="452646" name="neovison_vison">
+    <database name="Unknown" version="NNQGG.v01/2018-10-Ensembl">
+      <genes>
+        <gene id="903026090" geneId="ENSNVIG00000017504" protId="ENSNVIP00000022556" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="43346" name="bison_bison_bison">
+    <database name="Unknown" version="Bison_UMD1.0/2018-10-Ensembl">
+      <genes>
+        <gene id="936394801" geneId="ENSBBBG00000005894" protId="ENSBBBP00000026446" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9691" name="panthera_pardus">
+    <database name="Unknown" version="PanPar1.0/2018-01-Ensembl">
+      <genes>
+        <gene id="937000060" geneId="ENSPPRG00000024177" protId="ENSPPRP00000001341" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9361" name="dasypus_novemcinctus">
+    <database name="Unknown" version="Dasnov3.0/2013-06-Ensembl">
+      <genes>
+        <gene id="980686" geneId="ENSDNOG00000032784" protId="ENSDNOP00000031362" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9785" name="loxodonta_africana">
+    <database name="Unknown" version="loxAfr3/2009-07-Ensembl">
+      <genes>
+        <gene id="473435" geneId="ENSLAFG00000006805" protId="ENSLAFP00000005721" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9813" name="procavia_capensis">
+    <database name="Unknown" version="proCap1/2008-11-Ensembl">
+      <genes>
+        <gene id="1693316" geneId="ENSPCAG00000011503" protId="ENSPCAP00000010782" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9371" name="echinops_telfairi">
+    <database name="Unknown" version="TENREC/2006-01-Ensembl">
+      <genes>
+        <gene id="1519920" geneId="ENSETEG00000002347" protId="ENSETEP00000001904" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="38626" name="phascolarctos_cinereus">
+    <database name="Unknown" version="phaCin_unsw_v4.1/2018-11-Ensembl">
+      <genes>
+        <gene id="903139240" geneId="ENSPCIG00000028999" protId="ENSPCIP00000039528" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9305" name="sarcophilus_harrisii">
+    <database name="Unknown" version="DEVIL7.0/2011-03-Ensembl">
+      <genes>
+        <gene id="1026142" geneId="ENSSHAG00000018852" protId="ENSSHAP00000022277" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9315" name="notamacropus_eugenii">
+    <database name="Unknown" version="Meug_1.0/2009-02-Ensembl">
+      <genes>
+        <gene id="1778668" geneId="ENSMEUG00000011176" protId="ENSMEUP00000010212" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="13616" name="monodelphis_domestica">
+    <database name="Unknown" version="ASM229v1/2019-01-Ensembl">
+      <genes>
+        <gene id="942001227" geneId="ENSMODG00000049569" protId="ENSMODP00000044790" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="29139" name="vombatus_ursinus">
+    <database name="Unknown" version="bare-nosed_wombat_genome_assembly/2019-01-Ensembl">
+      <genes>
+        <gene id="944982818" geneId="ENSVURG00010001689" protId="ENSVURP00010002027" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9258" name="ornithorhynchus_anatinus">
+    <database name="Unknown" version="mOrnAna1.p.v1/2019-10-Ensembl">
+      <genes>
+        <gene id="944320135" geneId="ENSOANG00000006254" protId="ENSOANP00000042611" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="103695" name="pogona_vitticeps">
+    <database name="Unknown" version="pvi1.1/2018-10-Ensembl">
+      <genes>
+        <gene id="937154189" geneId="ENSPVIG00000016669" protId="ENSPVIP00000022027" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="425635" name="calidris_pygmaea">
+    <database name="Unknown" version="ASM369795v1/2018-12-Ensembl">
+      <genes>
+        <gene id="937832537" geneId="ENSCPGG00000015562" protId="ENSCPGP00000022420" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="93934" name="coturnix_japonica">
+    <database name="Unknown" version="Coturnix_japonica_2.0/2018-10-Ensembl">
+      <genes>
+        <gene id="904439499" geneId="ENSCJPG00005018636" protId="ENSCJPP00005023751" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9049" name="pavo_cristatus">
+    <database name="Unknown" version="AIIM_Pcri_1.0/2019-07-Ensembl">
+      <genes>
+        <gene id="940894531" geneId="ENSPSTG00000009742" protId="ENSPSTP00000013810" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9157" name="parus_major">
+    <database name="Unknown" version="Parus_major1.1/2018-10-Ensembl">
+      <genes>
+        <gene id="904387825" geneId="ENSPMJG00000015521" protId="ENSPMJP00000020897" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="38772" name="gopherus_agassizii">
+    <database name="Unknown" version="ASM289641v1/2018-09-Ensembl">
+      <genes>
+        <gene id="935118151" geneId="ENSGAGG00000020654" protId="ENSGAGP00000028505" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="44394" name="zonotrichia_albicollis">
+    <database name="Unknown" version="Zonotrichia_albicollis-1.0.1/2018-10-Ensembl">
+      <genes>
+        <gene id="903104697" geneId="ENSZALG00000012921" protId="ENSZALP00000015835" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="30461" name="bubo_bubo">
+    <database name="Unknown" version="BubBub1.0/2020-02-Ensembl">
+      <genes>
+        <gene id="944705441" geneId="ENSBOBG00000014375" protId="ENSBOBP00000024128" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="2587831" name="terrapene_carolina_triunguis">
+    <database name="Unknown" version="T_m_triunguis-2.0/2019-07-Ensembl">
+      <genes>
+        <gene id="941398389" geneId="ENSTMTG00000021795" protId="ENSTMTP00000030203" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="241587" name="amazona_collaria">
+    <database name="Unknown" version="ASM394721v1/2019-07-Ensembl">
+      <genes>
+        <gene id="932079923" geneId="ENSACOG00000012462" protId="ENSACOP00000018808" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="8663" name="notechis_scutatus">
+    <database name="Unknown" version="TS10Xv2-PRI/2018-10-Ensembl">
+      <genes>
+        <gene id="903101954" geneId="ENSNSUG00000013056" protId="ENSNSUP00000017799" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="96440" name="salvator_merianae">
+    <database name="Unknown" version="HLtupMer3/2018-10-Ensembl">
+      <genes>
+        <gene id="904420608" geneId="ENSSMRG00000001584" protId="ENSSMRP00000001841" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="64176" name="podarcis_muralis">
+    <database name="Unknown" version="PodMur_1.0/2019-07-Ensembl">
+      <genes>
+        <gene id="942704299" geneId="ENSPMRG00000000687" protId="ENSPMRP00000001550" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="44316" name="erythrura_gouldiae">
+    <database name="Unknown" version="GouldianFinch/2019-02-Ensembl">
+      <genes>
+        <gene id="931627952" geneId="ENSEGOG00005013112" protId="ENSEGOP00005016285" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="224669" name="buteo_japonicus">
+    <database name="Unknown" version="ButJap1.0/2020-02-Ensembl">
+      <genes>
+        <gene id="942556738" geneId="ENSBJAG00000015368" protId="ENSBJAP00000023825" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="1196302" name="corvus_moneduloides">
+    <database name="Unknown" version="UO_Cmon_1.0/2020-02-Ensembl">
+      <genes>
+        <gene id="944567250" geneId="ENSCMUG00000009613" protId="ENSCMUP00000015444" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="1220523" name="zosterops_lateralis_melanops">
+    <database name="Unknown" version="ASM128173v1/2019-11-Ensembl">
+      <genes>
+        <gene id="937441088" geneId="ENSZLMG00000001132" protId="ENSZLMP00000001463" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="48883" name="geospiza_fortis">
+    <database name="Unknown" version="GeoFor_1.0/2019-11-Ensembl">
+      <genes>
+        <gene id="937033442" geneId="ENSGFOG00000003039" protId="ENSGFOP00000004294" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="8824" name="apteryx_owenii">
+    <database name="Unknown" version="aptOwe1/2018-10-Ensembl">
+      <genes>
+        <gene id="903227845" geneId="ENSAOWG00000009146" protId="ENSAOWP00000013491" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="40217" name="junco_hyemalis">
+    <database name="Unknown" version="ASM382977v1/2018-12-Ensembl">
+      <genes>
+        <gene id="904412760" geneId="ENSJHYG00000017988" protId="ENSJHYP00000023922" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="299123" name="lonchura_striata_domestica">
+    <database name="Unknown" version="LonStrDom1/2018-10-Ensembl">
+      <genes>
+        <gene id="903194439" geneId="ENSLSDG00000003447" protId="ENSLSDP00000004559" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="30464" name="nothoprocta_perdicaria">
+    <database name="Unknown" version="notPer1/2018-10-Ensembl">
+      <genes>
+        <gene id="902895686" geneId="ENSNPEG00000012161" protId="ENSNPEP00000016324" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="87175" name="camarhynchus_parvulus">
+    <database name="Unknown" version="STF_HiC/2019-11-Ensembl">
+      <genes>
+        <gene id="938963897" geneId="ENSCPVG00000007235" protId="ENSCPVP00000009894" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="2489341" name="strigops_habroptila">
+    <database name="Unknown" version="bStrHab1_v1.p/2019-07-Ensembl">
+      <genes>
+        <gene id="932921729" geneId="ENSSHBG00005002209" protId="ENSSHBP00005002349" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="132585" name="anser_brachyrhynchus">
+    <database name="Unknown" version="ASM259213v1/2018-12-Ensembl">
+      <genes>
+        <gene id="903715739" geneId="ENSABRG00000001716" protId="ENSABRP00000001687" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="198806" name="calidris_pugnax">
+    <database name="Unknown" version="ASM143184v1/2018-10-Ensembl">
+      <genes>
+        <gene id="903648888" geneId="ENSCPUG00000013606" protId="ENSCPUP00000019872" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="35670" name="naja_naja">
+    <database name="Unknown" version="Nana_v5/2020-01-Ensembl">
+      <genes>
+        <gene id="944427441" geneId="ENSNNAG00000013183" protId="ENSNNAP00000019781" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="8630" name="laticauda_laticaudata">
+    <database name="Unknown" version="latLat_1.0/2019-11-Ensembl">
+      <genes>
+        <gene id="944506948" geneId="ENSLLTG00000015592" protId="ENSLLTP00000020849" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9089" name="chrysolophus_pictus">
+    <database name="Unknown" version="Chrysolophus_pictus_GenomeV1.0/2019-02-Ensembl">
+      <genes>
+        <gene id="939613551" geneId="ENSCPIG00010008461" protId="ENSCPIP00010010936" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9054" name="phasianus_colchicus">
+    <database name="Unknown" version="ASM414374v1/2019-02-Ensembl">
+      <genes>
+        <gene id="939985684" geneId="ENSPCLG00000009769" protId="ENSPCLP00000011872" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="28377" name="anolis_carolinensis">
+    <database name="Unknown" version="AnoCar2.0/2010-09-Ensembl">
+      <genes>
+        <gene id="991870" geneId="ENSACAG00000014215" protId="ENSACAP00000006109" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="8839" name="anas_platyrhynchos">
+    <database name="Unknown" version="ASM874695v1/2019-11-Ensembl">
+      <genes>
+        <gene id="942708897" geneId="ENSAPLG00020013610" protId="ENSAPLP00020019180" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="1825980" name="gopherus_evgoodei">
+    <database name="Unknown" version="rGopEvg1_v1.p/2019-10-Ensembl">
+      <genes>
+        <gene id="944163804" geneId="ENSGEVG00005013585" protId="ENSGEVP00005019123" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="441894" name="struthio_camelus_australis">
+    <database name="Unknown" version="ASM69896v1/2019-02-Ensembl">
+      <genes>
+        <gene id="939853358" geneId="ENSSCUG00000006475" protId="ENSSCUP00000008958" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="328815" name="manacus_vitellinus">
+    <database name="Unknown" version="ASM171598v2/2018-10-Ensembl">
+      <genes>
+        <gene id="903688677" geneId="ENSMVIG00005016684" protId="ENSMVIP00005023888" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9103" name="meleagris_gallopavo">
+    <database name="Unknown" version="Turkey_2.01/2010-09-Ensembl">
+      <genes>
+        <gene id="903496529" geneId="ENSMGAG00000007029" protId="ENSMGAP00000007149" />
+        <gene id="903496564" geneId="ENSMGAG00000007084" protId="ENSMGAP00000007176" />
+        <gene id="902884975" geneId="ENSMGAG00000007124" protId="ENSMGAP00000007214" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="8996" name="numida_meleagris">
+    <database name="Unknown" version="NumMel1.0/2018-10-Ensembl">
+      <genes>
+        <gene id="904575668" geneId="ENSNMEG00000002812" protId="ENSNMEP00000002212" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="8840" name="anas_platyrhynchos_platyrhynchos">
+    <database name="Unknown" version="CAU_duck1.0/2018-10-Ensembl">
+      <genes>
+        <gene id="935883778" geneId="ENSAPLG00000013409" protId="ENSAPLP00000017320" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="8475" name="chelydra_serpentina">
+    <database name="Unknown" version="Chelydra_serpentina-1.0/2019-11-Ensembl">
+      <genes>
+        <gene id="942612375" geneId="ENSCSRG00000010190" protId="ENSCSRP00000013430" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="311401" name="strix_occidentalis_caurina">
+    <database name="Unknown" version="Soccid_v01/2020-02-Ensembl">
+      <genes>
+        <gene id="942218897" geneId="ENSSOCG00000011169" protId="ENSSOCP00000014864" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="181631" name="stachyris_ruficeps">
+    <database name="Unknown" version="ASM869450v1/2019-11-Ensembl">
+      <genes>
+        <gene id="936367160" geneId="ENSCRFG00000012648" protId="ENSCRFP00000016503" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="8478" name="chrysemys_picta_bellii">
+    <database name="Unknown" version="Chrysemys_picta_bellii-3.0.3/2018-09-Ensembl">
+      <genes>
+        <gene id="935938336" geneId="ENSCPBG00000020445" protId="ENSCPBP00000028982" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="308060" name="apteryx_rowi">
+    <database name="Unknown" version="aptRow1/2018-10-Ensembl">
+      <genes>
+        <gene id="935361407" geneId="ENSARWG00000004922" protId="ENSARWP00000007025" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="321398" name="lepidothrix_coronata">
+    <database name="Unknown" version="Lepidothrix_coronata-1.0/2018-10-Ensembl">
+      <genes>
+        <gene id="903467275" geneId="ENSLCOG00000004961" protId="ENSLCOP00000006684" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="2593467" name="malurus_cyaneus_samueli">
+    <database name="Unknown" version="mCya_1.0/2020-02-Ensembl">
+      <genes>
+        <gene id="942897946" geneId="ENSMCSG00000005587" protId="ENSMCSP00000008381" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="91951" name="catharus_ustulatus">
+    <database name="Unknown" version="bCatUst1.pri/2020-01-Ensembl">
+      <genes>
+        <gene id="942836627" geneId="ENSCUSG00005012475" protId="ENSCUSP00005019610" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="61221" name="varanus_komodoensis">
+    <database name="Unknown" version="ASM479886v1/2019-07-Ensembl">
+      <genes>
+        <gene id="941109188" geneId="ENSVKKG00000002999" protId="ENSVKKP00000004000" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9031" name="gallus_gallus">
+    <database name="Unknown" version="GRCg6a/2018-04-Ensembl">
+      <genes>
+        <gene id="902597082" geneId="ENSGALG00000005653" protId="ENSGALP00000042025" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="1240228" name="cairina_moschata_domestica">
+    <database name="Unknown" version="CaiMos1.0/2020-02-Ensembl">
+      <genes>
+        <gene id="942732704" geneId="ENSCMMG00000016921" protId="ENSCMMP00000027682" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="106734" name="chelonoidis_abingdonii">
+    <database name="Unknown" version="ASM359739v1/2018-10-Ensembl">
+      <genes>
+        <gene id="903076592" geneId="ENSCABG00000006627" protId="ENSCABP00000008811" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="257818" name="otus_sunia">
+    <database name="Unknown" version="OtuSun1.0/2020-02-Ensembl">
+      <genes>
+        <gene id="945118010" geneId="ENSOSUG00000012975" protId="ENSOSUP00000018331" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="100819" name="falco_tinnunculus">
+    <database name="Unknown" version="FalTin1.0/2020-02-Ensembl">
+      <genes>
+        <gene id="942971809" geneId="ENSFTIG00000007726" protId="ENSFTIP00000011555" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="8845" name="anser_cygnoides">
+    <database name="Unknown" version="GooseV1.0/2019-02-Ensembl">
+      <genes>
+        <gene id="943682513" geneId="ENSACDG00005006034" protId="ENSACDP00005008304" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="75864" name="anas_zonorhyncha">
+    <database name="Unknown" version="ASM222487v1/2019-11-Ensembl">
+      <genes>
+        <gene id="942589870" geneId="ENSAZOG00000018546" protId="ENSAZOP00000029646" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="194338" name="athene_cunicularia">
+    <database name="Unknown" version="athCun1/2019-02-Ensembl">
+      <genes>
+        <gene id="933068861" geneId="ENSACUG00000002150" protId="ENSACUP00000003334" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="8508" name="sphenodon_punctatus">
+    <database name="Unknown" version="ASM311381v1/2018-05-Ensembl">
+      <genes>
+        <gene id="902193086" geneId="ENSSPUG00000014608" protId="ENSSPUP00000018925" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="8790" name="dromaius_novaehollandiae">
+    <database name="Unknown" version="droNov1/2018-10-Ensembl">
+      <genes>
+        <gene id="902991861" geneId="ENSDNVG00000003439" protId="ENSDNVP00000004800" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="8823" name="apteryx_haastii">
+    <database name="Unknown" version="aptHaa1/2018-12-Ensembl">
+      <genes>
+        <gene id="903465407" geneId="ENSAHAG00000003314" protId="ENSAHAP00000004252" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="59894" name="ficedula_albicollis">
+    <database name="Unknown" version="FicAlb_1.4/2012-05-Ensembl">
+      <genes>
+        <gene id="38489" geneId="ENSFALG00000007271" protId="ENSFALP00000007609" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="223781" name="aquila_chrysaetos_chrysaetos">
+    <database name="Unknown" version="bAquChr1.2/2019-07-Ensembl">
+      <genes>
+        <gene id="932045032" geneId="ENSACCG00020010399" protId="ENSACCP00020015137" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="13146" name="melopsittacus_undulatus">
+    <database name="Unknown" version="Melopsittacus_undulatus_6.3/2018-10-Ensembl">
+      <genes>
+        <gene id="903816849" geneId="ENSMUNG00000013714" protId="ENSMUNP00000017916" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="59729" name="taeniopygia_guttata">
+    <database name="Unknown" version="bTaeGut1_v1.p/2019-05-Ensembl">
+      <genes>
+        <gene id="932473209" geneId="ENSTGUG00000007491" protId="ENSTGUP00000023540" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="156563" name="cyanistes_caeruleus">
+    <database name="Unknown" version="cyaCae2/2018-10-Ensembl">
+      <genes>
+        <gene id="936608773" geneId="ENSCCEG00000015510" protId="ENSCCEP00000016605" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="367368" name="pelusios_castaneus">
+    <database name="Unknown" version="Pelusios_castaneus-1.0/2019-11-Ensembl">
+      <genes>
+        <gene id="942444215" geneId="ENSPCEG00000004692" protId="ENSPCEP00000005770" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="211598" name="accipiter_nisus">
+    <database name="Unknown" version="Accipiter_nisus_ver1.0/2019-07-Ensembl">
+      <genes>
+        <gene id="931139880" geneId="ENSANIG00000010726" protId="ENSANIP00000015767" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="8502" name="crocodylus_porosus">
+    <database name="Unknown" version="CroPor_comp1/2018-10-Ensembl">
+      <genes>
+        <gene id="904675288" geneId="ENSCPRG00005000880" protId="ENSCPRP00005001713" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="8673" name="pseudonaja_textilis">
+    <database name="Unknown" version="EBS10Xv2-PRI/2019-07-Ensembl">
+      <genes>
+        <gene id="945132705" geneId="ENSPTXG00000010548" protId="ENSPTXP00000015316" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="9135" name="serinus_canaria">
+    <database name="Unknown" version="SCA1/2018-10-Ensembl">
+      <genes>
+        <gene id="935355846" geneId="ENSSCAG00000017260" protId="ENSSCAP00000024130" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="445787" name="leptobrachium_leishanense">
+    <database name="Unknown" version="ASM966780v1/2019-11-Ensembl">
+      <genes>
+        <gene id="943897820" geneId="ENSLLEG00000030239" protId="ENSLLEP00000047973" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="8364" name="xenopus_tropicalis">
+    <database name="Unknown" version="Xenopus_tropicalis_v9.1/2019-04-Ensembl">
+      <genes>
+        <gene id="942373401" geneId="ENSXETG00000000013" protId="ENSXETP00000063270" />
+      </genes>
+    </database>
+  </species>
+  <species NCBITaxId="7897" name="latimeria_chalumnae">
+    <database name="Unknown" version="LatCha1/2011-09-Ensembl">
+      <genes>
+        <gene id="283019" geneId="ENSLACG00000016308" protId="ENSLACP00000018524" />
+      </genes>
+    </database>
+  </species>
+  <scores>
+    <scoreDef id="bootstrap" desc="Reliability of the branch" />
+    <scoreDef id="duplication_confidence_score" desc="Reliability of the duplication" />
+    <scoreDef id="n" desc="Number of non-synonymous mutations" />
+    <scoreDef id="s" desc="Number of synonymous mutations" />
+    <scoreDef id="dn" desc="Rate of non-synonymous mutations" />
+    <scoreDef id="ds" desc="Rate of synonymous mutations" />
+    <scoreDef id="lnl" desc="Likelihood of the n/s scores" />
+    <scoreDef id="dnds_ratio" desc="dN/dS ratio" />
+    <scoreDef id="goc_score" desc="Gene order conservation score" />
+    <scoreDef id="wga_coverage" desc="Whole genome alignment coverage" />
+    <scoreDef id="perc_identity" desc="Percentage of identity of this protein to the alignment" />
+  </scores>
+  <groups>
+    <orthologGroup id="346080536">
+      <score id="wga_coverage" value="0.00" />
+      <property name="taxon_name" value="Bilateria" />
+      <property name="taxon_id" value="33213" />
+      <property name="common_name" value="Bilateral animals" />
+      <property name="timetree_mya" value="796.6" />
+      <property name="description" value="ortholog_many2many" />
+      <property name="is_tree_compliant" value="0" />
+      <property name="is_high_confidence" value="0" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="17.1111" />
+      </geneRef>
+      <geneRef id="92000">
+        <score id="perc_identity" value="24.1758" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="346080579">
+      <property name="taxon_name" value="Bilateria" />
+      <property name="taxon_id" value="33213" />
+      <property name="common_name" value="Bilateral animals" />
+      <property name="timetree_mya" value="796.6" />
+      <property name="description" value="ortholog_many2many" />
+      <property name="is_tree_compliant" value="0" />
+      <property name="is_high_confidence" value="0" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="21.8889" />
+      </geneRef>
+      <geneRef id="932567174">
+        <score id="perc_identity" value="19.9595" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="346080614">
+      <property name="taxon_name" value="Bilateria" />
+      <property name="taxon_id" value="33213" />
+      <property name="common_name" value="Bilateral animals" />
+      <property name="timetree_mya" value="796.6" />
+      <property name="description" value="ortholog_many2many" />
+      <property name="is_tree_compliant" value="0" />
+      <property name="is_high_confidence" value="0" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="23.2222" />
+      </geneRef>
+      <geneRef id="932567215">
+        <score id="perc_identity" value="20.9209" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773133484">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Homininae" />
+      <property name="taxon_id" value="207598" />
+      <property name="common_name" value="Hominines" />
+      <property name="timetree_mya" value="6.7" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="99.1111" />
+      </geneRef>
+      <geneRef id="936411844">
+        <score id="perc_identity" value="98.8913" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773133532">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Homininae" />
+      <property name="taxon_id" value="207598" />
+      <property name="common_name" value="Hominines" />
+      <property name="timetree_mya" value="6.7" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="99.7778" />
+      </geneRef>
+      <geneRef id="935766033">
+        <score id="perc_identity" value="99.7778" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773133559">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Homininae" />
+      <property name="taxon_id" value="207598" />
+      <property name="common_name" value="Hominines" />
+      <property name="timetree_mya" value="6.7" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="99.7778" />
+      </geneRef>
+      <geneRef id="937180974">
+        <score id="perc_identity" value="99.7778" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773133861">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Hominidae" />
+      <property name="taxon_id" value="9604" />
+      <property name="common_name" value="Great apes" />
+      <property name="timetree_mya" value="15.8" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="95.7778" />
+      </geneRef>
+      <geneRef id="157175">
+        <score id="perc_identity" value="99.3088" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773134133">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Hominoidea" />
+      <property name="taxon_id" value="314295" />
+      <property name="common_name" value="Apes" />
+      <property name="timetree_mya" value="20.2" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="98.6667" />
+      </geneRef>
+      <geneRef id="800344679">
+        <score id="perc_identity" value="98.6667" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773137626">
+      <score id="goc_score" value="50" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Catarrhini" />
+      <property name="taxon_id" value="9526" />
+      <property name="common_name" value="Apes and Old World monkeys" />
+      <property name="timetree_mya" value="29.4" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="98.4444" />
+      </geneRef>
+      <geneRef id="943503823">
+        <score id="perc_identity" value="97.6847" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773137939">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Catarrhini" />
+      <property name="taxon_id" value="9526" />
+      <property name="common_name" value="Apes and Old World monkeys" />
+      <property name="timetree_mya" value="29.4" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="98.7778" />
+      </geneRef>
+      <geneRef id="937538921">
+        <score id="perc_identity" value="98.7778" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773138362">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Catarrhini" />
+      <property name="taxon_id" value="9526" />
+      <property name="common_name" value="Apes and Old World monkeys" />
+      <property name="timetree_mya" value="29.4" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="98.7778" />
+      </geneRef>
+      <geneRef id="800133213">
+        <score id="perc_identity" value="98.7778" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773138807">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Catarrhini" />
+      <property name="taxon_id" value="9526" />
+      <property name="common_name" value="Apes and Old World monkeys" />
+      <property name="timetree_mya" value="29.4" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="98.5556" />
+      </geneRef>
+      <geneRef id="800247803">
+        <score id="perc_identity" value="98.5556" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773139213">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Catarrhini" />
+      <property name="taxon_id" value="9526" />
+      <property name="common_name" value="Apes and Old World monkeys" />
+      <property name="timetree_mya" value="29.4" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="98.7778" />
+      </geneRef>
+      <geneRef id="904693741">
+        <score id="perc_identity" value="98.8876" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773139564">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Catarrhini" />
+      <property name="taxon_id" value="9526" />
+      <property name="common_name" value="Apes and Old World monkeys" />
+      <property name="timetree_mya" value="29.4" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="98.1111" />
+      </geneRef>
+      <geneRef id="937618238">
+        <score id="perc_identity" value="98.2202" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773139938">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Catarrhini" />
+      <property name="taxon_id" value="9526" />
+      <property name="common_name" value="Apes and Old World monkeys" />
+      <property name="timetree_mya" value="29.4" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="98.5556" />
+      </geneRef>
+      <geneRef id="936149356">
+        <score id="perc_identity" value="98.6652" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773140265">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Catarrhini" />
+      <property name="taxon_id" value="9526" />
+      <property name="common_name" value="Apes and Old World monkeys" />
+      <property name="timetree_mya" value="29.4" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="97.4444" />
+      </geneRef>
+      <geneRef id="938018491">
+        <score id="perc_identity" value="93.6966" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773140644">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Catarrhini" />
+      <property name="taxon_id" value="9526" />
+      <property name="common_name" value="Apes and Old World monkeys" />
+      <property name="timetree_mya" value="29.4" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="98.4444" />
+      </geneRef>
+      <geneRef id="923345">
+        <score id="perc_identity" value="98.5539" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773140967">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Catarrhini" />
+      <property name="taxon_id" value="9526" />
+      <property name="common_name" value="Apes and Old World monkeys" />
+      <property name="timetree_mya" value="29.4" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="98.8889" />
+      </geneRef>
+      <geneRef id="800743131">
+        <score id="perc_identity" value="98.8889" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773141333">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Catarrhini" />
+      <property name="taxon_id" value="9526" />
+      <property name="common_name" value="Apes and Old World monkeys" />
+      <property name="timetree_mya" value="29.4" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="93.6667" />
+      </geneRef>
+      <geneRef id="936751172">
+        <score id="perc_identity" value="93.0464" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773141783">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Catarrhini" />
+      <property name="taxon_id" value="9526" />
+      <property name="common_name" value="Apes and Old World monkeys" />
+      <property name="timetree_mya" value="29.4" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="98.8889" />
+      </geneRef>
+      <geneRef id="935444276">
+        <score id="perc_identity" value="98.8889" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773142426">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Simiiformes" />
+      <property name="taxon_id" value="314293" />
+      <property name="common_name" value="Simians" />
+      <property name="timetree_mya" value="43.2" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="95.2222" />
+      </geneRef>
+      <geneRef id="941623810">
+        <score id="perc_identity" value="95.2222" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773143654">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Simiiformes" />
+      <property name="taxon_id" value="314293" />
+      <property name="common_name" value="Simians" />
+      <property name="timetree_mya" value="43.2" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="95.5556" />
+      </geneRef>
+      <geneRef id="935562094">
+        <score id="perc_identity" value="95.5556" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773145044">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Simiiformes" />
+      <property name="taxon_id" value="314293" />
+      <property name="common_name" value="Simians" />
+      <property name="timetree_mya" value="43.2" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="91.8889" />
+      </geneRef>
+      <geneRef id="935087106">
+        <score id="perc_identity" value="94.2987" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773146357">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Simiiformes" />
+      <property name="taxon_id" value="314293" />
+      <property name="common_name" value="Simians" />
+      <property name="timetree_mya" value="43.2" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="95.3333" />
+      </geneRef>
+      <geneRef id="800575147">
+        <score id="perc_identity" value="95.3333" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773148023">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Primates" />
+      <property name="taxon_id" value="9443" />
+      <property name="common_name" value="Primates" />
+      <property name="timetree_mya" value="73.8" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="92.3333" />
+      </geneRef>
+      <geneRef id="935860147">
+        <score id="perc_identity" value="92.8492" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773149772">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Primates" />
+      <property name="taxon_id" value="9443" />
+      <property name="common_name" value="Primates" />
+      <property name="timetree_mya" value="73.8" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="93.5556" />
+      </geneRef>
+      <geneRef id="830896">
+        <score id="perc_identity" value="93.4517" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773151511">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Primates" />
+      <property name="taxon_id" value="9443" />
+      <property name="common_name" value="Primates" />
+      <property name="timetree_mya" value="73.8" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="93.5556" />
+      </geneRef>
+      <geneRef id="936845715">
+        <score id="perc_identity" value="93.2447" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773153349">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Primates" />
+      <property name="taxon_id" value="9443" />
+      <property name="common_name" value="Primates" />
+      <property name="timetree_mya" value="73.8" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="93.8889" />
+      </geneRef>
+      <geneRef id="935262655">
+        <score id="perc_identity" value="93.577" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773191502">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="89.70" />
+      <property name="taxon_name" value="Euarchontoglires" />
+      <property name="taxon_id" value="314146" />
+      <property name="common_name" value="Primates and Rodents" />
+      <property name="timetree_mya" value="89.8" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="67.8889" />
+      </geneRef>
+      <geneRef id="935546960">
+        <score id="perc_identity" value="81.25" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773194421">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Euarchontoglires" />
+      <property name="taxon_id" value="314146" />
+      <property name="common_name" value="Primates and Rodents" />
+      <property name="timetree_mya" value="89.8" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="91.5556" />
+      </geneRef>
+      <geneRef id="935992845">
+        <score id="perc_identity" value="91.6574" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773197495">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Euarchontoglires" />
+      <property name="taxon_id" value="314146" />
+      <property name="common_name" value="Primates and Rodents" />
+      <property name="timetree_mya" value="89.8" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="88.8889" />
+      </geneRef>
+      <geneRef id="937659267">
+        <score id="perc_identity" value="89.3855" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773200644">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="99.45" />
+      <property name="taxon_name" value="Euarchontoglires" />
+      <property name="taxon_id" value="314146" />
+      <property name="common_name" value="Primates and Rodents" />
+      <property name="timetree_mya" value="89.8" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="86.7778" />
+      </geneRef>
+      <geneRef id="935633922">
+        <score id="perc_identity" value="86.3938" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773203920">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Euarchontoglires" />
+      <property name="taxon_id" value="314146" />
+      <property name="common_name" value="Primates and Rodents" />
+      <property name="timetree_mya" value="89.8" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="90.6667" />
+      </geneRef>
+      <geneRef id="418920798">
+        <score id="perc_identity" value="90.8686" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773207285">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="99.84" />
+      <property name="taxon_name" value="Euarchontoglires" />
+      <property name="taxon_id" value="314146" />
+      <property name="common_name" value="Primates and Rodents" />
+      <property name="timetree_mya" value="89.8" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="83.4444" />
+      </geneRef>
+      <geneRef id="418827935">
+        <score id="perc_identity" value="87.9391" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773210741">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="99.46" />
+      <property name="taxon_name" value="Euarchontoglires" />
+      <property name="taxon_id" value="314146" />
+      <property name="common_name" value="Primates and Rodents" />
+      <property name="timetree_mya" value="89.8" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="87.1111" />
+      </geneRef>
+      <geneRef id="937591686">
+        <score id="perc_identity" value="91.8033" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773214401">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="99.88" />
+      <property name="taxon_name" value="Euarchontoglires" />
+      <property name="taxon_id" value="314146" />
+      <property name="common_name" value="Primates and Rodents" />
+      <property name="timetree_mya" value="89.8" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="89.5556" />
+      </geneRef>
+      <geneRef id="419149793">
+        <score id="perc_identity" value="90.5618" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773217999">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Euarchontoglires" />
+      <property name="taxon_id" value="314146" />
+      <property name="common_name" value="Primates and Rodents" />
+      <property name="timetree_mya" value="89.8" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="93.1111" />
+      </geneRef>
+      <geneRef id="944719025">
+        <score id="perc_identity" value="93.1111" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773220914">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Euarchontoglires" />
+      <property name="taxon_id" value="314146" />
+      <property name="common_name" value="Primates and Rodents" />
+      <property name="timetree_mya" value="89.8" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="88.8889" />
+      </geneRef>
+      <geneRef id="937354040">
+        <score id="perc_identity" value="88.2029" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773224173">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Euarchontoglires" />
+      <property name="taxon_id" value="314146" />
+      <property name="common_name" value="Primates and Rodents" />
+      <property name="timetree_mya" value="89.8" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="90" />
+      </geneRef>
+      <geneRef id="419262735">
+        <score id="perc_identity" value="90.2004" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773227440">
+      <score id="goc_score" value="75" />
+      <score id="wga_coverage" value="62.07" />
+      <property name="taxon_name" value="Euarchontoglires" />
+      <property name="taxon_id" value="314146" />
+      <property name="common_name" value="Primates and Rodents" />
+      <property name="timetree_mya" value="89.8" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="0" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="47" />
+      </geneRef>
+      <geneRef id="1427264">
+        <score id="perc_identity" value="49.3007" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773231022">
+      <score id="goc_score" value="50" />
+      <score id="wga_coverage" value="61.81" />
+      <property name="taxon_name" value="Euarchontoglires" />
+      <property name="taxon_id" value="314146" />
+      <property name="common_name" value="Primates and Rodents" />
+      <property name="timetree_mya" value="89.8" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="0" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="30.7778" />
+      </geneRef>
+      <geneRef id="1191948">
+        <score id="perc_identity" value="45.7096" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773234524">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Euarchontoglires" />
+      <property name="taxon_id" value="314146" />
+      <property name="common_name" value="Primates and Rodents" />
+      <property name="timetree_mya" value="89.8" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="90.5556" />
+      </geneRef>
+      <geneRef id="935111863">
+        <score id="perc_identity" value="90.7572" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773237746">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Euarchontoglires" />
+      <property name="taxon_id" value="314146" />
+      <property name="common_name" value="Primates and Rodents" />
+      <property name="timetree_mya" value="89.8" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="89.8889" />
+      </geneRef>
+      <geneRef id="419294915">
+        <score id="perc_identity" value="89.7891" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773240817">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="99.99" />
+      <property name="taxon_name" value="Euarchontoglires" />
+      <property name="taxon_id" value="314146" />
+      <property name="common_name" value="Primates and Rodents" />
+      <property name="timetree_mya" value="89.8" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="80.1111" />
+      </geneRef>
+      <geneRef id="938083956">
+        <score id="perc_identity" value="86.9723" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773244308">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Euarchontoglires" />
+      <property name="taxon_id" value="314146" />
+      <property name="common_name" value="Primates and Rodents" />
+      <property name="timetree_mya" value="89.8" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="0" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="36.1111" />
+      </geneRef>
+      <geneRef id="937939657">
+        <score id="perc_identity" value="93.6599" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773247814">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Euarchontoglires" />
+      <property name="taxon_id" value="314146" />
+      <property name="common_name" value="Primates and Rodents" />
+      <property name="timetree_mya" value="89.8" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="91.4444" />
+      </geneRef>
+      <geneRef id="903952840">
+        <score id="perc_identity" value="91.5462" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773250446">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="93.70" />
+      <property name="taxon_name" value="Euarchontoglires" />
+      <property name="taxon_id" value="314146" />
+      <property name="common_name" value="Primates and Rodents" />
+      <property name="timetree_mya" value="89.8" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="77.3333" />
+      </geneRef>
+      <geneRef id="418912301">
+        <score id="perc_identity" value="88.6624" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773253428">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Euarchontoglires" />
+      <property name="taxon_id" value="314146" />
+      <property name="common_name" value="Primates and Rodents" />
+      <property name="timetree_mya" value="89.8" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="91.2222" />
+      </geneRef>
+      <geneRef id="935662434">
+        <score id="perc_identity" value="91.3237" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773256591">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Euarchontoglires" />
+      <property name="taxon_id" value="314146" />
+      <property name="common_name" value="Primates and Rodents" />
+      <property name="timetree_mya" value="89.8" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="92.7778" />
+      </geneRef>
+      <geneRef id="419294555">
+        <score id="perc_identity" value="92.881" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773259734">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Euarchontoglires" />
+      <property name="taxon_id" value="314146" />
+      <property name="common_name" value="Primates and Rodents" />
+      <property name="timetree_mya" value="89.8" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="92.5556" />
+      </geneRef>
+      <geneRef id="938139525">
+        <score id="perc_identity" value="92.6585" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773263330">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Euarchontoglires" />
+      <property name="taxon_id" value="314146" />
+      <property name="common_name" value="Primates and Rodents" />
+      <property name="timetree_mya" value="89.8" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="90.5556" />
+      </geneRef>
+      <geneRef id="936135685">
+        <score id="perc_identity" value="90.7572" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773265445">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="92.87" />
+      <property name="taxon_name" value="Euarchontoglires" />
+      <property name="taxon_id" value="314146" />
+      <property name="common_name" value="Primates and Rodents" />
+      <property name="timetree_mya" value="89.8" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="79.2222" />
+      </geneRef>
+      <geneRef id="936451389">
+        <score id="perc_identity" value="83.8824" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773268565">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="97.45" />
+      <property name="taxon_name" value="Euarchontoglires" />
+      <property name="taxon_id" value="314146" />
+      <property name="common_name" value="Primates and Rodents" />
+      <property name="timetree_mya" value="89.8" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="82.1111" />
+      </geneRef>
+      <geneRef id="419387504">
+        <score id="perc_identity" value="84.5538" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773271564">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="96.28" />
+      <property name="taxon_name" value="Euarchontoglires" />
+      <property name="taxon_id" value="314146" />
+      <property name="common_name" value="Primates and Rodents" />
+      <property name="timetree_mya" value="89.8" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="70.5556" />
+      </geneRef>
+      <geneRef id="939902898">
+        <score id="perc_identity" value="78.3951" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773274727">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Euarchontoglires" />
+      <property name="taxon_id" value="314146" />
+      <property name="common_name" value="Primates and Rodents" />
+      <property name="timetree_mya" value="89.8" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="91.2222" />
+      </geneRef>
+      <geneRef id="802032302">
+        <score id="perc_identity" value="91.3237" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773278204">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Euarchontoglires" />
+      <property name="taxon_id" value="314146" />
+      <property name="common_name" value="Primates and Rodents" />
+      <property name="timetree_mya" value="89.8" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="91.2222" />
+      </geneRef>
+      <geneRef id="802526111">
+        <score id="perc_identity" value="91.3237" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773280873">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Euarchontoglires" />
+      <property name="taxon_id" value="314146" />
+      <property name="common_name" value="Primates and Rodents" />
+      <property name="timetree_mya" value="89.8" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="91.4444" />
+      </geneRef>
+      <geneRef id="802709474">
+        <score id="perc_identity" value="91.5462" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773283705">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Euarchontoglires" />
+      <property name="taxon_id" value="314146" />
+      <property name="common_name" value="Primates and Rodents" />
+      <property name="timetree_mya" value="89.8" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="91" />
+      </geneRef>
+      <geneRef id="904009050">
+        <score id="perc_identity" value="91.1012" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773287097">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Euarchontoglires" />
+      <property name="taxon_id" value="314146" />
+      <property name="common_name" value="Primates and Rodents" />
+      <property name="timetree_mya" value="89.8" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="89.8889" />
+      </geneRef>
+      <geneRef id="904021201">
+        <score id="perc_identity" value="89.7891" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773290108">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Euarchontoglires" />
+      <property name="taxon_id" value="314146" />
+      <property name="common_name" value="Primates and Rodents" />
+      <property name="timetree_mya" value="89.8" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="93" />
+      </geneRef>
+      <geneRef id="936588787">
+        <score id="perc_identity" value="93.1034" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773369486">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Boreoeutheria" />
+      <property name="taxon_id" value="1437010" />
+      <property name="common_name" value="Placental mammals" />
+      <property name="timetree_mya" value="96.5" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="92.3333" />
+      </geneRef>
+      <geneRef id="941763028">
+        <score id="perc_identity" value="92.436" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773369549">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Boreoeutheria" />
+      <property name="taxon_id" value="1437010" />
+      <property name="common_name" value="Placental mammals" />
+      <property name="timetree_mya" value="96.5" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="88.6667" />
+      </geneRef>
+      <geneRef id="943490448">
+        <score id="perc_identity" value="87.7888" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773369612">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Boreoeutheria" />
+      <property name="taxon_id" value="1437010" />
+      <property name="common_name" value="Placental mammals" />
+      <property name="timetree_mya" value="96.5" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="92.5556" />
+      </geneRef>
+      <geneRef id="942868955">
+        <score id="perc_identity" value="92.5556" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773369661">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Boreoeutheria" />
+      <property name="taxon_id" value="1437010" />
+      <property name="common_name" value="Placental mammals" />
+      <property name="timetree_mya" value="96.5" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="92.4444" />
+      </geneRef>
+      <geneRef id="942271593">
+        <score id="perc_identity" value="92.6503" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773369692">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Boreoeutheria" />
+      <property name="taxon_id" value="1437010" />
+      <property name="common_name" value="Placental mammals" />
+      <property name="timetree_mya" value="96.5" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="92.6667" />
+      </geneRef>
+      <geneRef id="943843665">
+        <score id="perc_identity" value="92.7697" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773369727">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Boreoeutheria" />
+      <property name="taxon_id" value="1437010" />
+      <property name="common_name" value="Placental mammals" />
+      <property name="timetree_mya" value="96.5" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="92.3333" />
+      </geneRef>
+      <geneRef id="943341549">
+        <score id="perc_identity" value="92.436" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773369752">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="83.58" />
+      <property name="taxon_name" value="Boreoeutheria" />
+      <property name="taxon_id" value="1437010" />
+      <property name="common_name" value="Placental mammals" />
+      <property name="timetree_mya" value="96.5" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="0" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="34.7778" />
+      </geneRef>
+      <geneRef id="943370243">
+        <score id="perc_identity" value="79.8469" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773369804">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Boreoeutheria" />
+      <property name="taxon_id" value="1437010" />
+      <property name="common_name" value="Placental mammals" />
+      <property name="timetree_mya" value="96.5" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="92.8889" />
+      </geneRef>
+      <geneRef id="942397809">
+        <score id="perc_identity" value="91.2664" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773369864">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Boreoeutheria" />
+      <property name="taxon_id" value="1437010" />
+      <property name="common_name" value="Placental mammals" />
+      <property name="timetree_mya" value="96.5" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="92.5556" />
+      </geneRef>
+      <geneRef id="944595870">
+        <score id="perc_identity" value="92.6585" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773369973">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Boreoeutheria" />
+      <property name="taxon_id" value="1437010" />
+      <property name="common_name" value="Placental mammals" />
+      <property name="timetree_mya" value="96.5" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="92.5556" />
+      </geneRef>
+      <geneRef id="938141257">
+        <score id="perc_identity" value="88.3351" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773370060">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="99.29" />
+      <property name="taxon_name" value="Boreoeutheria" />
+      <property name="taxon_id" value="1437010" />
+      <property name="common_name" value="Placental mammals" />
+      <property name="timetree_mya" value="96.5" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="0" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="33.4444" />
+      </geneRef>
+      <geneRef id="900162605">
+        <score id="perc_identity" value="86.7435" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773370100">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Boreoeutheria" />
+      <property name="taxon_id" value="1437010" />
+      <property name="common_name" value="Placental mammals" />
+      <property name="timetree_mya" value="96.5" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="93" />
+      </geneRef>
+      <geneRef id="941874619">
+        <score id="perc_identity" value="93" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773370141">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Boreoeutheria" />
+      <property name="taxon_id" value="1437010" />
+      <property name="common_name" value="Placental mammals" />
+      <property name="timetree_mya" value="96.5" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="92.7778" />
+      </geneRef>
+      <geneRef id="943121305">
+        <score id="perc_identity" value="90.1728" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773370161">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Boreoeutheria" />
+      <property name="taxon_id" value="1437010" />
+      <property name="common_name" value="Placental mammals" />
+      <property name="timetree_mya" value="96.5" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="91.8889" />
+      </geneRef>
+      <geneRef id="905247457">
+        <score id="perc_identity" value="91.8889" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773370196">
+      <score id="goc_score" value="75" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Boreoeutheria" />
+      <property name="taxon_id" value="1437010" />
+      <property name="common_name" value="Placental mammals" />
+      <property name="timetree_mya" value="96.5" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="93.1111" />
+      </geneRef>
+      <geneRef id="943233326">
+        <score id="perc_identity" value="93.0078" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773370272">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Boreoeutheria" />
+      <property name="taxon_id" value="1437010" />
+      <property name="common_name" value="Placental mammals" />
+      <property name="timetree_mya" value="96.5" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="92.7778" />
+      </geneRef>
+      <geneRef id="944283004">
+        <score id="perc_identity" value="92.7778" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773370385">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Boreoeutheria" />
+      <property name="taxon_id" value="1437010" />
+      <property name="common_name" value="Placental mammals" />
+      <property name="timetree_mya" value="96.5" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="92.2222" />
+      </geneRef>
+      <geneRef id="887662">
+        <score id="perc_identity" value="92.2222" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773370416">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="97.28" />
+      <property name="taxon_name" value="Boreoeutheria" />
+      <property name="taxon_id" value="1437010" />
+      <property name="common_name" value="Placental mammals" />
+      <property name="timetree_mya" value="96.5" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="85.5556" />
+      </geneRef>
+      <geneRef id="835507">
+        <score id="perc_identity" value="86.0335" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773370431">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Boreoeutheria" />
+      <property name="taxon_id" value="1437010" />
+      <property name="common_name" value="Placental mammals" />
+      <property name="timetree_mya" value="96.5" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="91.7778" />
+      </geneRef>
+      <geneRef id="802539512">
+        <score id="perc_identity" value="91.7778" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773370468">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Boreoeutheria" />
+      <property name="taxon_id" value="1437010" />
+      <property name="common_name" value="Placental mammals" />
+      <property name="timetree_mya" value="96.5" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="91.8889" />
+      </geneRef>
+      <geneRef id="905249011">
+        <score id="perc_identity" value="91.8889" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773370502">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="99.83" />
+      <property name="taxon_name" value="Boreoeutheria" />
+      <property name="taxon_id" value="1437010" />
+      <property name="common_name" value="Placental mammals" />
+      <property name="timetree_mya" value="96.5" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="89" />
+      </geneRef>
+      <geneRef id="1329262">
+        <score id="perc_identity" value="91.3341" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773370538">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="71.00" />
+      <property name="taxon_name" value="Boreoeutheria" />
+      <property name="taxon_id" value="1437010" />
+      <property name="common_name" value="Placental mammals" />
+      <property name="timetree_mya" value="96.5" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="53.3333" />
+      </geneRef>
+      <geneRef id="945729">
+        <score id="perc_identity" value="62.4187" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773370578">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Boreoeutheria" />
+      <property name="taxon_id" value="1437010" />
+      <property name="common_name" value="Placental mammals" />
+      <property name="timetree_mya" value="96.5" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="92.4444" />
+      </geneRef>
+      <geneRef id="940758429">
+        <score id="perc_identity" value="92.5473" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773370654">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Boreoeutheria" />
+      <property name="taxon_id" value="1437010" />
+      <property name="common_name" value="Placental mammals" />
+      <property name="timetree_mya" value="96.5" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="92.5556" />
+      </geneRef>
+      <geneRef id="943570880">
+        <score id="perc_identity" value="92.4528" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773370740">
+      <score id="goc_score" value="75" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Boreoeutheria" />
+      <property name="taxon_id" value="1437010" />
+      <property name="common_name" value="Placental mammals" />
+      <property name="timetree_mya" value="96.5" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="92.5556" />
+      </geneRef>
+      <geneRef id="944798336">
+        <score id="perc_identity" value="90.4452" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773370823">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Boreoeutheria" />
+      <property name="taxon_id" value="1437010" />
+      <property name="common_name" value="Placental mammals" />
+      <property name="timetree_mya" value="96.5" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="87.1111" />
+      </geneRef>
+      <geneRef id="902122420">
+        <score id="perc_identity" value="90.8459" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773370952">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Boreoeutheria" />
+      <property name="taxon_id" value="1437010" />
+      <property name="common_name" value="Placental mammals" />
+      <property name="timetree_mya" value="96.5" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="92.4444" />
+      </geneRef>
+      <geneRef id="942252508">
+        <score id="perc_identity" value="92.6503" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773371094">
+      <score id="goc_score" value="75" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Boreoeutheria" />
+      <property name="taxon_id" value="1437010" />
+      <property name="common_name" value="Placental mammals" />
+      <property name="timetree_mya" value="96.5" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="93" />
+      </geneRef>
+      <geneRef id="902659395">
+        <score id="perc_identity" value="93" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773371111">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Boreoeutheria" />
+      <property name="taxon_id" value="1437010" />
+      <property name="common_name" value="Placental mammals" />
+      <property name="timetree_mya" value="96.5" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="92.8889" />
+      </geneRef>
+      <geneRef id="178112">
+        <score id="perc_identity" value="92.7858" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773371192">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="99.10" />
+      <property name="taxon_name" value="Boreoeutheria" />
+      <property name="taxon_id" value="1437010" />
+      <property name="common_name" value="Placental mammals" />
+      <property name="timetree_mya" value="96.5" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="85.3333" />
+      </geneRef>
+      <geneRef id="935978174">
+        <score id="perc_identity" value="83.027" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773371244">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Boreoeutheria" />
+      <property name="taxon_id" value="1437010" />
+      <property name="common_name" value="Placental mammals" />
+      <property name="timetree_mya" value="96.5" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="92.5556" />
+      </geneRef>
+      <geneRef id="939578402">
+        <score id="perc_identity" value="81.3477" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773371269">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Boreoeutheria" />
+      <property name="taxon_id" value="1437010" />
+      <property name="common_name" value="Placental mammals" />
+      <property name="timetree_mya" value="96.5" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="90.2222" />
+      </geneRef>
+      <geneRef id="945529594">
+        <score id="perc_identity" value="91.5445" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773371316">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Boreoeutheria" />
+      <property name="taxon_id" value="1437010" />
+      <property name="common_name" value="Placental mammals" />
+      <property name="timetree_mya" value="96.5" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="92.5556" />
+      </geneRef>
+      <geneRef id="943395427">
+        <score id="perc_identity" value="92.5556" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773371389">
+      <score id="goc_score" value="50" />
+      <score id="wga_coverage" value="55.55" />
+      <property name="taxon_name" value="Boreoeutheria" />
+      <property name="taxon_id" value="1437010" />
+      <property name="common_name" value="Placental mammals" />
+      <property name="timetree_mya" value="96.5" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="0" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="26.7778" />
+      </geneRef>
+      <geneRef id="1647093">
+        <score id="perc_identity" value="48.2966" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773371458">
+      <score id="goc_score" value="0" />
+      <score id="wga_coverage" value="87.17" />
+      <property name="taxon_name" value="Boreoeutheria" />
+      <property name="taxon_id" value="1437010" />
+      <property name="common_name" value="Placental mammals" />
+      <property name="timetree_mya" value="96.5" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="57.8889" />
+      </geneRef>
+      <geneRef id="937239990">
+        <score id="perc_identity" value="89.673" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773371531">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Boreoeutheria" />
+      <property name="taxon_id" value="1437010" />
+      <property name="common_name" value="Placental mammals" />
+      <property name="timetree_mya" value="96.5" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="92.5556" />
+      </geneRef>
+      <geneRef id="944816939">
+        <score id="perc_identity" value="92.4528" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773371596">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="96.79" />
+      <property name="taxon_name" value="Boreoeutheria" />
+      <property name="taxon_id" value="1437010" />
+      <property name="common_name" value="Placental mammals" />
+      <property name="timetree_mya" value="96.5" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="78.4444" />
+      </geneRef>
+      <geneRef id="192194">
+        <score id="perc_identity" value="92.2876" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773371671">
+      <score id="goc_score" value="75" />
+      <score id="wga_coverage" value="81.40" />
+      <property name="taxon_name" value="Boreoeutheria" />
+      <property name="taxon_id" value="1437010" />
+      <property name="common_name" value="Placental mammals" />
+      <property name="timetree_mya" value="96.5" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="60.3333" />
+      </geneRef>
+      <geneRef id="1561567">
+        <score id="perc_identity" value="74.3836" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773371773">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Boreoeutheria" />
+      <property name="taxon_id" value="1437010" />
+      <property name="common_name" value="Placental mammals" />
+      <property name="timetree_mya" value="96.5" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="91.8889" />
+      </geneRef>
+      <geneRef id="904681121">
+        <score id="perc_identity" value="91.8889" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773371842">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Boreoeutheria" />
+      <property name="taxon_id" value="1437010" />
+      <property name="common_name" value="Placental mammals" />
+      <property name="timetree_mya" value="96.5" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="91.8889" />
+      </geneRef>
+      <geneRef id="942994707">
+        <score id="perc_identity" value="91.9911" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773371877">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Boreoeutheria" />
+      <property name="taxon_id" value="1437010" />
+      <property name="common_name" value="Placental mammals" />
+      <property name="timetree_mya" value="96.5" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="92" />
+      </geneRef>
+      <geneRef id="902935170">
+        <score id="perc_identity" value="92" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773371895">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Boreoeutheria" />
+      <property name="taxon_id" value="1437010" />
+      <property name="common_name" value="Placental mammals" />
+      <property name="timetree_mya" value="96.5" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="92.4444" />
+      </geneRef>
+      <geneRef id="903026090">
+        <score id="perc_identity" value="92.4444" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773371912">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Boreoeutheria" />
+      <property name="taxon_id" value="1437010" />
+      <property name="common_name" value="Placental mammals" />
+      <property name="timetree_mya" value="96.5" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="91.7778" />
+      </geneRef>
+      <geneRef id="936394801">
+        <score id="perc_identity" value="91.7778" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773371983">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Boreoeutheria" />
+      <property name="taxon_id" value="1437010" />
+      <property name="common_name" value="Placental mammals" />
+      <property name="timetree_mya" value="96.5" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="92.8889" />
+      </geneRef>
+      <geneRef id="937000060">
+        <score id="perc_identity" value="92.8889" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773560454">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="99.27" />
+      <property name="taxon_name" value="Eutheria" />
+      <property name="taxon_id" value="9347" />
+      <property name="common_name" value="Placentals" />
+      <property name="timetree_mya" value="100.5" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="91.6667" />
+      </geneRef>
+      <geneRef id="980686">
+        <score id="perc_identity" value="91.6667" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773571565">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Eutheria" />
+      <property name="taxon_id" value="9347" />
+      <property name="common_name" value="Placentals" />
+      <property name="timetree_mya" value="100.5" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="91.6667" />
+      </geneRef>
+      <geneRef id="473435">
+        <score id="perc_identity" value="92.0759" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773577261">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="99.78" />
+      <property name="taxon_name" value="Eutheria" />
+      <property name="taxon_id" value="9347" />
+      <property name="common_name" value="Placentals" />
+      <property name="timetree_mya" value="100.5" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="90.4444" />
+      </geneRef>
+      <geneRef id="1693316">
+        <score id="perc_identity" value="91.8736" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773586232">
+      <score id="goc_score" value="75" />
+      <score id="wga_coverage" value="86.29" />
+      <property name="taxon_name" value="Eutheria" />
+      <property name="taxon_id" value="9347" />
+      <property name="common_name" value="Placentals" />
+      <property name="timetree_mya" value="100.5" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="70.6667" />
+      </geneRef>
+      <geneRef id="1519920">
+        <score id="perc_identity" value="72.52" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773595861">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Theria" />
+      <property name="taxon_id" value="32525" />
+      <property name="common_name" value="Marsupials and Placental mammals" />
+      <property name="timetree_mya" value="158.6" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="80.6667" />
+      </geneRef>
+      <geneRef id="903139240">
+        <score id="perc_identity" value="80.8463" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773606515">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="96.55" />
+      <property name="taxon_name" value="Theria" />
+      <property name="taxon_id" value="32525" />
+      <property name="common_name" value="Marsupials and Placental mammals" />
+      <property name="timetree_mya" value="158.6" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="74.4444" />
+      </geneRef>
+      <geneRef id="1026142">
+        <score id="perc_identity" value="77.1001" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773614223">
+      <score id="goc_score" value="50" />
+      <score id="wga_coverage" value="99.77" />
+      <property name="taxon_name" value="Theria" />
+      <property name="taxon_id" value="32525" />
+      <property name="common_name" value="Marsupials and Placental mammals" />
+      <property name="timetree_mya" value="158.6" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="80.4444" />
+      </geneRef>
+      <geneRef id="1778668">
+        <score id="perc_identity" value="81.4398" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773625290">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="50.19" />
+      <property name="taxon_name" value="Theria" />
+      <property name="taxon_id" value="32525" />
+      <property name="common_name" value="Marsupials and Placental mammals" />
+      <property name="timetree_mya" value="158.6" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="0" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="6.77778" />
+      </geneRef>
+      <geneRef id="942001227">
+        <score id="perc_identity" value="59.2233" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773634080">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="100.00" />
+      <property name="taxon_name" value="Theria" />
+      <property name="taxon_id" value="32525" />
+      <property name="common_name" value="Marsupials and Placental mammals" />
+      <property name="timetree_mya" value="158.6" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="80.2222" />
+      </geneRef>
+      <geneRef id="944982818">
+        <score id="perc_identity" value="77.718" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773642949">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="98.29" />
+      <property name="taxon_name" value="Mammalia" />
+      <property name="taxon_id" value="40674" />
+      <property name="common_name" value="Mammals" />
+      <property name="timetree_mya" value="176.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="71.3333" />
+      </geneRef>
+      <geneRef id="944320135">
+        <score id="perc_identity" value="74.2197" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773866882">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="85.26" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="58.1111" />
+      </geneRef>
+      <geneRef id="937154189">
+        <score id="perc_identity" value="55.7569" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773871190">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="96.31" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="60" />
+      </geneRef>
+      <geneRef id="937832537">
+        <score id="perc_identity" value="58.0645" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773875589">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="96.50" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="57.1111" />
+      </geneRef>
+      <geneRef id="904439499">
+        <score id="perc_identity" value="59.9068" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773878889">
+      <score id="goc_score" value="50" />
+      <score id="wga_coverage" value="98.97" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="59.2222" />
+      </geneRef>
+      <geneRef id="940894531">
+        <score id="perc_identity" value="56.7021" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773881966">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="92.91" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="59.5556" />
+      </geneRef>
+      <geneRef id="904387825">
+        <score id="perc_identity" value="57.3876" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773886338">
+      <score id="goc_score" value="50" />
+      <score id="wga_coverage" value="90.96" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="61.4444" />
+      </geneRef>
+      <geneRef id="935118151">
+        <score id="perc_identity" value="59.5905" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773890340">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="86.99" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="59.8889" />
+      </geneRef>
+      <geneRef id="903104697">
+        <score id="perc_identity" value="45.5621" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773896008">
+      <score id="goc_score" value="50" />
+      <score id="wga_coverage" value="98.77" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="60.3333" />
+      </geneRef>
+      <geneRef id="944705441">
+        <score id="perc_identity" value="61.0799" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773902574">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="91.03" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="61.2222" />
+      </geneRef>
+      <geneRef id="941398389">
+        <score id="perc_identity" value="59.5676" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773907150">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="95.43" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="58" />
+      </geneRef>
+      <geneRef id="932079923">
+        <score id="perc_identity" value="58.5859" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773911171">
+      <score id="goc_score" value="50" />
+      <score id="wga_coverage" value="71.31" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="57.3333" />
+      </geneRef>
+      <geneRef id="903101954">
+        <score id="perc_identity" value="56.5789" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773916129">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="74.86" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="57" />
+      </geneRef>
+      <geneRef id="904420608">
+        <score id="perc_identity" value="58.6957" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773921658">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="76.79" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="57.1111" />
+      </geneRef>
+      <geneRef id="942704299">
+        <score id="perc_identity" value="57.5588" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773927185">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="79.82" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="59.5556" />
+      </geneRef>
+      <geneRef id="931627952">
+        <score id="perc_identity" value="45.3085" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773931193">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="97.95" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="58.2222" />
+      </geneRef>
+      <geneRef id="942556738">
+        <score id="perc_identity" value="60.2992" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773935268">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="98.45" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="60" />
+      </geneRef>
+      <geneRef id="944567250">
+        <score id="perc_identity" value="57.5693" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773939813">
+      <score id="goc_score" value="75" />
+      <score id="wga_coverage" value="97.79" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="60" />
+      </geneRef>
+      <geneRef id="937441088">
+        <score id="perc_identity" value="58.8235" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773945203">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="91.63" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="55.6667" />
+      </geneRef>
+      <geneRef id="937033442">
+        <score id="perc_identity" value="58.8028" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773951972">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="91.38" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="59.6667" />
+      </geneRef>
+      <geneRef id="903227845">
+        <score id="perc_identity" value="59.6667" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773957563">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="96.27" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="59.7778" />
+      </geneRef>
+      <geneRef id="904412760">
+        <score id="perc_identity" value="57.6635" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773963047">
+      <score id="goc_score" value="75" />
+      <score id="wga_coverage" value="97.81" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="57.8889" />
+      </geneRef>
+      <geneRef id="903194439">
+        <score id="perc_identity" value="60.4408" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773968904">
+      <score id="goc_score" value="50" />
+      <score id="wga_coverage" value="96.81" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="60.2222" />
+      </geneRef>
+      <geneRef id="902895686">
+        <score id="perc_identity" value="60.4236" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773975149">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="92.33" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="59.7778" />
+      </geneRef>
+      <geneRef id="938963897">
+        <score id="perc_identity" value="57.6635" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773982173">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="96.31" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="61" />
+      </geneRef>
+      <geneRef id="932921729">
+        <score id="perc_identity" value="58.9056" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773986915">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="95.39" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="60.4444" />
+      </geneRef>
+      <geneRef id="903715739">
+        <score id="perc_identity" value="58.0576" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773990374">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="99.13" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="60.4444" />
+      </geneRef>
+      <geneRef id="903648888">
+        <score id="perc_identity" value="53.8614" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773993399">
+      <score id="goc_score" value="50" />
+      <score id="wga_coverage" value="65.98" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="57.4444" />
+      </geneRef>
+      <geneRef id="944427441">
+        <score id="perc_identity" value="53.9103" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="773997573">
+      <score id="goc_score" value="0" />
+      <score id="wga_coverage" value="52.66" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="39.5556" />
+      </geneRef>
+      <geneRef id="944506948">
+        <score id="perc_identity" value="51.5942" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="774003706">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="98.90" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="56.3333" />
+      </geneRef>
+      <geneRef id="939613551">
+        <score id="perc_identity" value="56.1462" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="774009699">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="91.79" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="61.2222" />
+      </geneRef>
+      <geneRef id="939985684">
+        <score id="perc_identity" value="50.0909" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="774013778">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="75.63" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="58.2222" />
+      </geneRef>
+      <geneRef id="991870">
+        <score id="perc_identity" value="56.71" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="774017255">
+      <score id="goc_score" value="75" />
+      <score id="wga_coverage" value="96.91" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="58.5556" />
+      </geneRef>
+      <geneRef id="942708897">
+        <score id="perc_identity" value="58.7514" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="774021760">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="90.99" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="61.3333" />
+      </geneRef>
+      <geneRef id="944163804">
+        <score id="perc_identity" value="59.4828" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="774024862">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="88.07" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="52.7778" />
+      </geneRef>
+      <geneRef id="939853358">
+        <score id="perc_identity" value="49.121" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="774027930">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="97.01" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="59" />
+      </geneRef>
+      <geneRef id="903688677">
+        <score id="perc_identity" value="59.2634" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="774031920">
+      <score id="goc_score" value="0" />
+      <score id="wga_coverage" value="60.70" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2many" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="0" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="8.44444" />
+      </geneRef>
+      <geneRef id="902884975">
+        <score id="perc_identity" value="39.7906" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="774035797">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="97.68" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="61.7778" />
+      </geneRef>
+      <geneRef id="904575668">
+        <score id="perc_identity" value="60.2384" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="774039027">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="85.15" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="47.6667" />
+      </geneRef>
+      <geneRef id="935883778">
+        <score id="perc_identity" value="50.7692" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="774041688">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="89.79" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="61.3333" />
+      </geneRef>
+      <geneRef id="942612375">
+        <score id="perc_identity" value="59.8698" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="774045884">
+      <score id="goc_score" value="75" />
+      <score id="wga_coverage" value="96.38" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="60.7778" />
+      </geneRef>
+      <geneRef id="942218897">
+        <score id="perc_identity" value="59.8468" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="774048994">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="90.33" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="60.1111" />
+      </geneRef>
+      <geneRef id="936367160">
+        <score id="perc_identity" value="49.1818" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="774051748">
+      <score id="goc_score" value="0" />
+      <score id="wga_coverage" value="67.02" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2many" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="0" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="21.3333" />
+      </geneRef>
+      <geneRef id="903496564">
+        <score id="perc_identity" value="76.8" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="774054439">
+      <score id="goc_score" value="75" />
+      <score id="wga_coverage" value="91.22" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="61.2222" />
+      </geneRef>
+      <geneRef id="935938336">
+        <score id="perc_identity" value="57.0393" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="774056968">
+      <score id="goc_score" value="0" />
+      <score id="wga_coverage" value="72.70" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2many" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="0" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="24.1111" />
+      </geneRef>
+      <geneRef id="903496529">
+        <score id="perc_identity" value="60.7843" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="774059536">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="93.61" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="61.3333" />
+      </geneRef>
+      <geneRef id="935361407">
+        <score id="perc_identity" value="58.9114" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="774062081">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="96.65" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="60.1111" />
+      </geneRef>
+      <geneRef id="903467275">
+        <score id="perc_identity" value="59.516" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="774067424">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="97.99" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="56.2222" />
+      </geneRef>
+      <geneRef id="942897946">
+        <score id="perc_identity" value="57.8286" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="774072912">
+      <score id="goc_score" value="75" />
+      <score id="wga_coverage" value="93.58" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="59.7778" />
+      </geneRef>
+      <geneRef id="942836627">
+        <score id="perc_identity" value="61.3455" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="774077983">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="65.20" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="29" />
+      </geneRef>
+      <geneRef id="941109188">
+        <score id="perc_identity" value="76.5396" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="774082150">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="96.73" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="61.1111" />
+      </geneRef>
+      <geneRef id="902597082">
+        <score id="perc_identity" value="60.241" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="774086145">
+      <score id="goc_score" value="50" />
+      <score id="wga_coverage" value="93.93" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="59.5556" />
+      </geneRef>
+      <geneRef id="942732704">
+        <score id="perc_identity" value="59.0308" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="774091148">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="84.50" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="60.4444" />
+      </geneRef>
+      <geneRef id="903076592">
+        <score id="perc_identity" value="59.846" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="774095264">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="98.55" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="60.3333" />
+      </geneRef>
+      <geneRef id="945118010">
+        <score id="perc_identity" value="58.137" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="774097965">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="95.26" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="60.8889" />
+      </geneRef>
+      <geneRef id="942971809">
+        <score id="perc_identity" value="58.9247" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="774101579">
+      <score id="goc_score" value="50" />
+      <score id="wga_coverage" value="97.42" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="60.1111" />
+      </geneRef>
+      <geneRef id="943682513">
+        <score id="perc_identity" value="60.7865" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="774104106">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="97.03" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="55.6667" />
+      </geneRef>
+      <geneRef id="942589870">
+        <score id="perc_identity" value="50.8114" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="774107525">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="96.80" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="59.1111" />
+      </geneRef>
+      <geneRef id="933068861">
+        <score id="perc_identity" value="57.0815" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="774111090">
+      <score id="goc_score" value="75" />
+      <score id="wga_coverage" value="88.03" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="59.5556" />
+      </geneRef>
+      <geneRef id="902193086">
+        <score id="perc_identity" value="58.9011" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="774113281">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="94.81" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="61.1111" />
+      </geneRef>
+      <geneRef id="902991861">
+        <score id="perc_identity" value="61.6592" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="774116550">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="90.76" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="61" />
+      </geneRef>
+      <geneRef id="903465407">
+        <score id="perc_identity" value="58.7166" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="774120916">
+      <score id="goc_score" value="50" />
+      <score id="wga_coverage" value="95.39" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="60.1111" />
+      </geneRef>
+      <geneRef id="38489">
+        <score id="perc_identity" value="59.6472" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="774124499">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="97.06" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="60.6667" />
+      </geneRef>
+      <geneRef id="932045032">
+        <score id="perc_identity" value="58.4582" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="774126706">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="97.59" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="60" />
+      </geneRef>
+      <geneRef id="903816849">
+        <score id="perc_identity" value="60.8794" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="774130012">
+      <score id="goc_score" value="50" />
+      <score id="wga_coverage" value="89.13" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="59.5556" />
+      </geneRef>
+      <geneRef id="932473209">
+        <score id="perc_identity" value="47.7718" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="774134104">
+      <score id="goc_score" value="50" />
+      <score id="wga_coverage" value="95.45" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="57.8889" />
+      </geneRef>
+      <geneRef id="936608773">
+        <score id="perc_identity" value="56.8777" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="774137786">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="86.95" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="60.3333" />
+      </geneRef>
+      <geneRef id="942444215">
+        <score id="perc_identity" value="58.1994" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="774140588">
+      <score id="goc_score" value="75" />
+      <score id="wga_coverage" value="96.80" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="60.6667" />
+      </geneRef>
+      <geneRef id="931139880">
+        <score id="perc_identity" value="58.4582" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="774144787">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="89.13" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="59.3333" />
+      </geneRef>
+      <geneRef id="904675288">
+        <score id="perc_identity" value="61.1684" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="774147671">
+      <score id="goc_score" value="50" />
+      <score id="wga_coverage" value="70.51" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="55.8889" />
+      </geneRef>
+      <geneRef id="945132705">
+        <score id="perc_identity" value="55.8889" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="774150403">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="98.41" />
+      <property name="taxon_name" value="Amniota" />
+      <property name="taxon_id" value="32524" />
+      <property name="common_name" value="Amniotes" />
+      <property name="timetree_mya" value="311.9" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="57.4444" />
+      </geneRef>
+      <geneRef id="935355846">
+        <score id="perc_identity" value="58.6833" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="774155155">
+      <score id="goc_score" value="100" />
+      <score id="wga_coverage" value="62.10" />
+      <property name="taxon_name" value="Tetrapoda" />
+      <property name="taxon_id" value="32523" />
+      <property name="common_name" value="Tetrapods" />
+      <property name="timetree_mya" value="351.8" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="50.4444" />
+      </geneRef>
+      <geneRef id="943897820">
+        <score id="perc_identity" value="47.6891" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="774155186">
+      <score id="goc_score" value="25" />
+      <score id="wga_coverage" value="62.84" />
+      <property name="taxon_name" value="Tetrapoda" />
+      <property name="taxon_id" value="32523" />
+      <property name="common_name" value="Tetrapods" />
+      <property name="timetree_mya" value="351.8" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="51" />
+      </geneRef>
+      <geneRef id="942373401">
+        <score id="perc_identity" value="47.0769" />
+      </geneRef>
+    </orthologGroup>
+    <orthologGroup id="774164737">
+      <score id="goc_score" value="50" />
+      <score id="wga_coverage" value="50.97" />
+      <property name="taxon_name" value="Sarcopterygii" />
+      <property name="taxon_id" value="8287" />
+      <property name="common_name" value="Lobe-finned fish" />
+      <property name="timetree_mya" value="413.0" />
+      <property name="description" value="ortholog_one2one" />
+      <property name="is_tree_compliant" value="1" />
+      <property name="is_high_confidence" value="1" />
+      <geneRef id="940278144">
+        <score id="perc_identity" value="49.3333" />
+      </geneRef>
+      <geneRef id="283019">
+        <score id="perc_identity" value="48.5777" />
+      </geneRef>
+    </orthologGroup>
+  </groups>
+</orthoXML>
