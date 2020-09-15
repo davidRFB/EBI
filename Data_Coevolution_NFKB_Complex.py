@@ -259,10 +259,10 @@ for key,val in NFKBComplex_Data.items():
     otholog_json=fetch_endpoint(server_homologs,Human_NFKBComplex[key]+ext_homolgs,json) ## orthologs of NFKB protein
     Orth_dic =OrthologsPrintGenId(otholog_json) ## create dictionary with {specie, genID}
     for species,gen in Orth_dic.items():
-        count= 0;
+        #count= 0;
 
-        if(count==3):
-            break 
+        #if(count==3):
+        #    break 
         genId=gen[0]
         '''
         Obtain nucleotide seq from genId in plain text. use list.split(\n) to obtain each read
@@ -295,7 +295,7 @@ for key,val in NFKBComplex_Data.items():
             for eachdata in data:
                 print(eachdata,end=" | ")
             print()
-        count+= 1       
+        #count+= 1       
         
     '''
     add a dictionary as a value for dict{([Protein in complex])= dict(species,[genID,NuclSeq,AA lenght,AA seq])}
