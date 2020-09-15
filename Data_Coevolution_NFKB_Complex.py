@@ -270,7 +270,7 @@ for key,val in NFKBComplex_Data.items():
         ''' 
        
         seq = ObtainNucleotideSeq(genId)
-        if(proteinSeq !="NaN"):
+        if(seq !="NaN"):
             gen.append("NaN")
         else:
             gen.append(seq) ## add this nucleotide seq to genId in list
