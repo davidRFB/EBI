@@ -7,23 +7,10 @@ Created on Sun Sep 13 14:51:48 2020
 @email: dr.figueroa10@uniandes.edu.co 
 
 
-   PROGRAM:   program name
-   AUTHOR:    your name
+   PROGRAM:   Read OrthoXML files with no processing xml structure.
 
 
-   FUNCTION:  a short paragraph stating the purpose of the
-              program.
-
-   INPUT:     location of input, i.e.  standard input, a file on
-              disk
-
-   OUTPUT:    location and type of output, i.e.  a report
-              containing a detail record for each city processed
-              containing city id, Celsius temperature, Fahrenheit
-              temperature and wind chill temperature.
-
-   NOTES:     any relevant information that would be of
-              additional help to someone looking at the program
+   TODO:    Fix names as input ( .cvs file ) 
 
 """
 
