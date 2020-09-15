@@ -160,8 +160,11 @@ def ObtainNucleotideSeq(genId):
     '''
     server = "http://rest.ensembl.org"
     ext = "/sequence/id/{}?type=genomic".format(genId)
-
-    r = requests.get(server+ext, headers={ "Content-Type" : "text/plain"})
+    try:
+        r = requests.get(server+ext, headers={ "Content-Type" : "text/plain"})
+    except:
+   
+        return "NaN"
 
     if not r.ok:
       r.raise_for_status()
@@ -191,7 +194,7 @@ def UniprotByGen(genid):
         sys.exit()
     responseBody = r.json()
     if(len(responseBody)<1):
-        print("genId {} not found in Uniprot".format(genid))
+        #print("genId {} not found in Uniprot".format(genid))
         return "NaN"
         
     return (responseBody[0])
@@ -267,8 +270,12 @@ for key,val in NFKBComplex_Data.items():
         ''' 
        
         seq = ObtainNucleotideSeq(genId)
-        gen.append(seq) ## add this nucleotide seq to genId in list
+        if(proteinSeq !="NaN"):
+            gen.append("NaN")
+        else:
+            gen.append(seq) ## add this nucleotide seq to genId in list
         proteinSeq = UniprotByGen(genId) # obtain AA sequence
+        
         if(proteinSeq !="NaN"): 
             '''
             if protein existe in Uniprot. then add 
