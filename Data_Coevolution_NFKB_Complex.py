@@ -160,14 +160,13 @@ def ObtainNucleotideSeq(genId):
     '''
     server = "http://rest.ensembl.org"
     ext = "/sequence/id/{}?type=genomic".format(genId)
-    try:
-        r = requests.get(server+ext, headers={ "Content-Type" : "text/plain"})
-    except:
-   
-        return "NaN"
+    
+    r = requests.get(server+ext, headers={ "Content-Type" : "text/plain"})
+    
 
     if not r.ok:
       r.raise_for_status()
+      return "NaN"
       sys.exit()
         
     return(r.text)
