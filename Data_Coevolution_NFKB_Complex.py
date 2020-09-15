@@ -132,10 +132,13 @@ def OrthologsPrintGenId(request):
     output dictionary with species name and gen ID
     '''
     ortholog_dict=dict()
+
     for ortholog in request['data'][0]['homologies']:
+
         #print(ortholog['species'],ortholog['id'],ortholog['protein_id'])
         ortholog_dict[ortholog['species']]=[]
         ortholog_dict[ortholog['species']].append(ortholog['id'])
+
     return ortholog_dict
 
 
@@ -165,9 +168,9 @@ def ObtainNucleotideSeq(genId):
     
 
     if not r.ok:
-      r.raise_for_status()
+      #r.raise_for_status()
       return "NaN"
-      sys.exit()
+      #sys.exit()
         
     return(r.text)
 
@@ -258,10 +261,11 @@ for key,val in NFKBComplex_Data.items():
     print("Getting information of {}".format(key))
     otholog_json=fetch_endpoint(server_homologs,Human_NFKBComplex[key]+ext_homolgs,json) ## orthologs of NFKB protein
     Orth_dic =OrthologsPrintGenId(otholog_json) ## create dictionary with {specie, genID}
-    for species,gen in Orth_dic.items():
-        #count= 0;
 
-        #if(count==3):
+    for species,gen in Orth_dic.items():
+        #count= 0
+        #print(count)
+        #if(count==1):
         #    break 
         genId=gen[0]
         '''
@@ -290,12 +294,13 @@ for key,val in NFKBComplex_Data.items():
             gen.append(("AA length","NaN"))
             gen.append("NaN")
         Orth_dic[species]=gen
-        for name,data in Orth_dic.items():
-            print(name,end=" | ")
-            for eachdata in data:
-                print(eachdata,end=" | ")
-            print()
-        #count+= 1       
+        #count+= 1  
+    for name,data in Orth_dic.items():
+        print(name,end=" | ")
+        for eachdata in data:
+            print(eachdata,end=" | ")
+        print()
+             
         
     '''
     add a dictionary as a value for dict{([Protein in complex])= dict(species,[genID,NuclSeq,AA lenght,AA seq])}
@@ -314,13 +319,13 @@ print("total time of execution {} s".format(tf-t0))
 
 
 NFKB_DataFrame = pd.DataFrame.from_dict(NFKBComplex_Data)
-NFKB_DataFrame
+#NFKB_DataFrame
 
 
 # In[136]:
 
 
-NFKB_DataFrame.to_csv("Data_NFKBComplex.cvs")
+NFKB_DataFrame.to_csv("Data_NFKBComplex.csv")
 
 
 # 
