@@ -16,6 +16,7 @@ with open("./Human_NFKB1_orthologues.xml","r") as orthologs :
     text=orthologs.readlines()
 name_gen=dict()
 for i in range(len(text)):
+	
     if("<species" in text[i]):
         name=text[i].split("name")[-1][2:-3]
         genId=text[i+3].split("=")[-2][1:-8]
